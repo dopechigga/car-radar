@@ -23,10 +23,10 @@ jobs:
       - name: Validate dashboard data
         run: |
           python3 -m json.tool dist/data/hotspots.json >/dev/null
+          python3 scripts/validate_news.py
           python3 scripts/validate_topcase.py
 
       - name: Check required site files
         run: |
           test -f dist/index.html
           test -f dist/data/hotspots.json
-

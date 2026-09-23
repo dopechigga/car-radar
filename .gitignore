@@ -10,4 +10,4 @@ playwright/.auth/
 .env
 .env.*
 !.env.example
-
+/.local/

@@ -131,6 +131,14 @@ def normalize(platform: str, record: dict, now: datetime) -> dict:
 def validate_snapshot(platform: str, snapshot: dict) -> list[dict]:
     if snapshot.get("status") != "ok" or snapshot.get("platform") != platform:
         raise ValueError("snapshot status or platform mismatch")
+    collected_at = str(snapshot.get("collectedAt") or "")
+    if not collected_at:
+        raise ValueError("snapshot has no collectedAt")
+    collected = datetime.fromisoformat(collected_at.replace("Z", "+00:00"))
+    if collected.tzinfo is None:
+        collected = collected.replace(tzinfo=TZ)
+    if datetime.now(TZ) - collected.astimezone(TZ) > timedelta(hours=36):
+        raise ValueError("snapshot is older than 36 hours")
     required = {"externalId", "title", "author", "cover", "source"}
     valid: list[dict] = []
     seen: set[str] = set()
@@ -163,6 +171,10 @@ def main() -> int:
 
     merged_cases: list[dict] = []
     refresh_status: dict[str, dict] = {}
+    cloud_status_path = STAGING_DIR / "social-cloud-status.json"
+    cloud_report = read_json(cloud_status_path) if cloud_status_path.exists() else {}
+    cloud_status = cloud_report.get("platforms", {})
+    cloud_checked_at = str(cloud_report.get("collectedAt") or "")
     for platform in config["platforms"]:
         snapshot_path = STAGING_DIR / f"{platform}.json"
         if not snapshot_path.exists():
@@ -170,7 +182,18 @@ def main() -> int:
             snapshot_path = STAGING_DIR / f"{romanized}.json"
         previous = current_by_platform[platform]
         try:
-            raw = validate_snapshot(platform, read_json(snapshot_path))
+            snapshot = read_json(snapshot_path)
+            platform_cloud_status = cloud_status.get(platform, {})
+            if platform_cloud_status.get("state") == "last-good" and cloud_checked_at:
+                snapshot_time = datetime.fromisoformat(str(snapshot.get("collectedAt", "")).replace("Z", "+00:00"))
+                checked_time = datetime.fromisoformat(cloud_checked_at.replace("Z", "+00:00"))
+                if snapshot_time.tzinfo is None:
+                    snapshot_time = snapshot_time.replace(tzinfo=TZ)
+                if checked_time.tzinfo is None:
+                    checked_time = checked_time.replace(tzinfo=TZ)
+                if snapshot_time <= checked_time:
+                    raise ValueError("cloud attempt did not produce a fresh authenticated snapshot")
+            raw = validate_snapshot(platform, snapshot)
             fresh = [normalize(platform, record, now) for record in raw]
             fresh.sort(key=lambda item: (int(item.get("engagementScore", 0)), -int(item.get("time", 10080))), reverse=True)
             fresh_ids = {item["id"] for item in fresh}
@@ -187,12 +210,13 @@ def main() -> int:
         except Exception as exc:  # last-good fallback is intentional here
             selected = previous[:quota]
             merged_cases.extend(selected)
+            cloud_reason = cloud_status.get(platform, {}).get("reason")
             refresh_status[platform] = {
                 "state": "last-good",
                 "fresh": 0,
                 "fallback": len(selected),
                 "total": len(selected),
-                "reason": str(exc),
+                "reason": cloud_reason or str(exc),
             }
 
     output = dict(current)

@@ -1,0 +1,26 @@
+{
+  "collectedAt": "2026-09-23T17:01:54+08:00",
+  "platforms": {
+    "微博": {
+      "state": "last-good",
+      "mode": "public-page-probe",
+      "reason": "公开页可达，但云端没有登录态，保留上一版并等待本机登录后补采",
+      "httpStatus": 200,
+      "sampleBytes": 9654
+    },
+    "小红书": {
+      "state": "last-good",
+      "mode": "public-page-probe",
+      "reason": "公开页可达，但云端没有登录态，保留上一版并等待本机登录后补采",
+      "httpStatus": 200,
+      "sampleBytes": 32768
+    },
+    "抖音": {
+      "state": "last-good",
+      "mode": "public-page-probe",
+      "reason": "公开页可达，但云端没有登录态，保留上一版并等待本机登录后补采",
+      "httpStatus": 200,
+      "sampleBytes": 32768
+    }
+  }
+}

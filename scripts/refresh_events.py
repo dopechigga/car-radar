@@ -14,6 +14,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "dist" / "data" / "hotspots.json"
 SNAPSHOT_FILE = ROOT / "data" / "staging" / "events.json"
+CONFIG_FILE = ROOT / "config" / "news-collection.json"
 LAST_GOOD_FILE = ROOT / "data" / "last_good" / "hotspots.json"
 TZ = ZoneInfo("Asia/Shanghai")
 
@@ -64,6 +65,10 @@ def main() -> int:
     current = read_json(DATA_FILE)
     snapshot = read_json(SNAPSHOT_FILE)
     events = validate(snapshot)
+    config = read_json(CONFIG_FILE)
+    minimum = int(config["dailyMinimum"])
+    if len(events) < minimum:
+        raise ValueError(f"event snapshot has {len(events)} items; {minimum} required")
     cases = [item for item in current.get("items", []) if item.get("type") == "case"]
     now = datetime.now(TZ)
 
@@ -76,6 +81,9 @@ def main() -> int:
     output["hotspotRefreshStatus"] = {
         "state": "updated",
         "fresh": len(events),
+        "fresh24h": int(snapshot.get("fresh24h", len(events))),
+        "minimum": minimum,
+        "windowHours": int(snapshot.get("windowHours", config["primaryWindowHours"])),
         "snapshot": str(SNAPSHOT_FILE.relative_to(ROOT)),
         "collectedAt": snapshot.get("collectedAt", now.isoformat(timespec="seconds")),
     }
