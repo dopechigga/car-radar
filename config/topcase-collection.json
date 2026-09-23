@@ -1,0 +1,24 @@
+{
+  "name": "车势 Radar Top Case",
+  "timezone": "Asia/Shanghai",
+  "platforms": ["微博", "小红书", "抖音"],
+  "dailyQuotaPerPlatform": 30,
+  "dailyTotalTarget": 90,
+  "updateCadenceHours": 24,
+  "contentPreference": {
+    "primary": "图文",
+    "douyinPresentation": "视频封面",
+    "requireCover": true
+  },
+  "timePolicy": {
+    "primaryWindowHours": 24,
+    "fallbackWindowDays": 7,
+    "priority": "每天更新一次；优先当日新增，不足时从近 7 天高热池回补"
+  },
+  "topicPolicy": {
+    "include": ["汽车行业", "汽车品牌", "具体车型", "新车上市", "智能驾驶", "补能与续航", "车主体验", "汽车政策", "车辆安全"],
+    "exclude": ["非汽车内容", "无具体车型或事件的泛热点", "经销商硬广", "搬运聚合", "重复发布", "纯优惠导流"]
+  },
+  "requiredFields": ["platform", "title", "author", "eventDate", "engagement", "cover", "sources"],
+  "output": "dist/data/hotspots.json"
+}

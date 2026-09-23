@@ -1,0 +1,4 @@
+# 当日热点与 Top Case 每天 09:00 统一更新一次。
+# 服务器时区使用 Asia/Shanghai。
+# 把 /path/to/car-radar 替换为腾讯云上的实际目录。
+0 9 * * * cd /path/to/car-radar && ./scripts/run_daily.sh >> logs/daily-refresh.log 2>&1

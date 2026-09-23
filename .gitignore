@@ -1,0 +1,13 @@
+# Local runtime files
+logs/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Browser sessions and credentials must never be committed
+browser-state/
+playwright/.auth/
+.env
+.env.*
+!.env.example
+
