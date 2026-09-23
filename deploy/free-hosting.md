@@ -16,6 +16,10 @@
 4. Deploy command 使用 `npx wrangler deploy`；静态目录由 `wrangler.jsonc` 指向 `dist`。
 5. 部署完成后使用 Cloudflare 分配的 `*.workers.dev` 地址访问。
 
+## 中国大陆网络备用入口
+
+如果本地网络重置 `workers.dev` 连接，可将同一 GitHub 仓库导入腾讯 EdgeOne Makers。项目根目录的 `edgeone.json` 已把发布目录设置为 `./dist`，GitHub 的 `main` 分支每次更新后会自动重新部署。
+
 ## 自动更新边界
 
 `site-check.yml` 只验证和发布现有数据，不负责抓取平台内容。正式启用每日定时任务前，需要先完成新闻、微博、小红书和抖音采集器，并通过一次云端手动运行验证。
