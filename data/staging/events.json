@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "collectedAt": "2026-11-16T15:38:46+08:00",
+  "collectedAt": "2026-11-17T16:48:01+08:00",
   "windowHours": 24,
   "minimum": 60,
   "fresh24h": 90,
@@ -20,36 +20,30 @@
   ],
   "items": [
     {
-      "id": "news-bee17c13468b25",
+      "id": "news-61db3ec0d9c2fb",
       "type": "event",
       "category": [
         "正在爆",
-        "新车情报"
+        "补能与续航"
       ],
-      "hot": 97,
-      "create": 95,
-      "time": 485,
+      "hot": 99,
+      "create": 97,
+      "time": 126,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 07:32",
+      "eventDate": "11月17日 14:41",
       "status": "公开新闻源已采集",
       "brands": [
-        "理想",
-        "小鹏",
-        "智界"
+        "汽车行业"
       ],
-      "models": [
-        "小鹏G9L",
-        "理想L6",
-        "R7"
-      ],
-      "title": "最近上市的新能源SUV怎么选？小鹏G9L对比理想L6、智界R7等新车清单",
-      "summary": "新浪网于11月16日 07:32发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
+      "models": [],
+      "title": "11万多就配激光雷达，轴距2米9+650km续航，还买什么凯美瑞？",
+      "summary": "车家号于11月17日 14:41发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 07:32",
-        "热度信号：命中 3 个汽车主题，跨源/重复 3 次"
+        "来源：车家号",
+        "发布时间：11月17日 14:41",
+        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
       ],
       "angles": [
         "从标题中的具体车型或事件切入，补充关键数字与背景",
@@ -57,118 +51,37 @@
       ],
       "sources": [
         {
-          "name": "新浪网",
-          "publishedAt": "11月16日 07:32",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TeXFhclpMQjhQekd2Y2diQ1YwNjBQSnNIdk1TUkcwMFhWcGdnNlJTZU5LRDJhcXVaRXRmZi1UeGUtRFNGOFN5RmZaRWFFTl9peFZXcUtvWUc2LXdLYjk0?oc=5"
+          "name": "车家号",
+          "publishedAt": "11月17日 14:41",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3TTV1akNsRS1WQWYtRFZ2YXVWSTlsck9PZjVXSmJ0R2kzSlFMZ25mRG1DX3RyaHdDWGR3NWEwOFVleEdUcS1kNU14a2Jhc0VQZl96Q0pRb1lFblU?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-2be1c9f2f53779",
+      "id": "news-4ac7f5a27d6115",
       "type": "event",
       "category": [
         "正在爆"
       ],
       "hot": 98,
       "create": 96,
-      "time": 326,
+      "time": 243,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 10:12",
+      "eventDate": "11月17日 12:44",
       "status": "公开新闻源已采集",
       "brands": [
-        "汽车行业"
+        "小鹏"
       ],
       "models": [],
-      "title": "跨界车企靠增程突破，挽救不了增程，国产HEV在加速围猎",
-      "summary": "Sohu于11月16日 10:12发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · Sohu",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：Sohu",
-        "发布时间：11月16日 10:12",
-        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "Sohu",
-          "publishedAt": "11月16日 10:12",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGxzS0czQzFYdm5yTWF1WjJ2bkEwcEFLclRfcmxxMHR4UUFDbGR6VW9oTDlMbEZoNlQ3UWtNQm96WDhCQkJYbDFoWWo2TTlFa3pzNXBnUVpnRTFqc2JYVlZseVFCUEFyMVE0WWZuRmdmN1BveW5ia25UN05TbFdTcTdwTXFRcTNz?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-11277fa13bb656",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报",
-        "行业数据"
-      ],
-      "hot": 97,
-      "create": 95,
-      "time": 387,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:11",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "【读财报】10月上市车企销量：销量环比增逾5%",
-      "summary": "新浪财经于11月16日 09:11发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪财经",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪财经",
-        "发布时间：11月16日 09:11",
-        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪财经",
-          "publishedAt": "11月16日 09:11",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KS1dRZmlmWWV2UEN6c1NYWGg5T3VGTEVVZ1VOWnNjMC1fTTBQV0ZENG8zdWdWem5ZdGZacTBWVmltc0VpRWQ4ak1BekZOYnE5YXdhWXRjMkM5R1R2bGd0dU9Wc1Y3RWRKTWs3MDRn?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-6d0496e6674b63",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "行业数据"
-      ],
-      "hot": 97,
-      "create": 95,
-      "time": 511,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 07:07",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "长城"
-      ],
-      "models": [],
-      "title": "四大自主车企中，长城销量落后，利润端也承压",
-      "summary": "汽车之家于11月16日 07:07发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "title": "小鹏汽车营收增长19%，为什么亏损反而扩大了？",
+      "summary": "汽车之家于11月17日 12:44发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 汽车之家",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：汽车之家",
-        "发布时间：11月16日 07:07",
+        "发布时间：11月17日 12:44",
         "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
       ],
       "angles": [
@@ -178,120 +91,119 @@
       "sources": [
         {
           "name": "汽车之家",
-          "publishedAt": "11月16日 07:07",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yX0FDQWZKT2xxWm1Mb25HbWJoY0hQYkd0V0R4dFNLbkZ5Rno1c2Y0MXlERk83QVVqQmRFdkhQZkZCcEZHdjJKN0tEdU90TE5USEFuaEphVEpVQUE?oc=5"
+          "publishedAt": "11月17日 12:44",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTY1NzZDVQSUFaaGFnU3p3TW9FTTcyRV8wRElWZGs2VE9NWl95eFlfOVBJY1ZmYmp2cEJoal9YWDh3TkFjVTFzVWlxUHlUZlA5N291ZG5acHduNGhZazVHUmNQZ2dzZmJ3SENV?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-cfd05eb205127a",
+      "id": "news-9f46566d1cb00a",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报",
+        "政策动态"
+      ],
+      "hot": 95,
+      "create": 93,
+      "time": 846,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 02:41",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "两天狂发17款新车！政策窗口期叠加新品潮，消费者集中“抢单”",
+      "summary": "第一财经于11月17日 02:41发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 第一财经",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：第一财经",
+        "发布时间：11月17日 02:41",
+        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "第一财经",
+          "publishedAt": "11月17日 02:41",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9meTRkeVRzQ2tsRVd1QnM0RUFlWURoelNjWERhR2h5LXVkT2xPV0JlejBWMzl2NG02UnRhdldkOTdUNHkwTFRvcXYtRnpEdURDa3pydw?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-28fda186f10bb2",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报",
+        "补能与续航"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 959,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 00:48",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "比亚迪"
+      ],
+      "models": [],
+      "title": "比亚迪连发11款新车，续航超1000公里的纯电车终于上市了！",
+      "summary": "汽车之家于11月17日 00:48发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 00:48",
+        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 00:48",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1T2tiSzdKNmJSTUpjbENHUkd1a3VYR1BWTXVXSEoxYXhqd0JwNHgtM2locEg5ckNMek5xNjFrd01nS0tCWmNlYVZVRkVLcGtEa3VQSnduei1mWThXVXc?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-dfd9643afc0662",
       "type": "event",
       "category": [
         "正在爆",
         "新车情报"
       ],
-      "hot": 96,
-      "create": 94,
-      "time": 558,
+      "hot": 94,
+      "create": 92,
+      "time": 1036,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 06:20",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "比亚迪",
-        "奇瑞",
-        "广汽",
-        "本田"
-      ],
-      "models": [],
-      "title": "广州车展首发权反转 比亚迪奇瑞广汽本田密集上新",
-      "summary": "汽车之家于11月16日 06:20发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 06:20",
-        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 06:20",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51SzNnWWd5THpFZm1uRTRaZUlwdm5CY2ZfZmVuZE5QQ0NSMmFUS0FkVmQtRWY3QlltbXNOa2gwYXNHUWdEekZLeVRuQUN1MzdDTTJ3cy1aeWYydkk?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-5fb7ebd5df3645",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 620,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 05:18",
+      "eventDate": "11月16日 23:32",
       "status": "公开新闻源已采集",
       "brands": [
         "汽车行业"
       ],
       "models": [],
-      "title": "高端续航好的车选哪款？2026年实测5款破900km车型谁最值+FAQ",
-      "summary": "新浪网于11月16日 05:18发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 05:18",
-        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 05:18",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0eWQ3M3hjaHNKbTc0TjVWWjNXMnRfRUlxWHQ3N3FCNUZCeVFLRWJsZmJ4dVF2aTJhbFFxN1VEMTh4ZThaX1pBdjhoWkdES0YyMzhsYTM2WUlwYjdaWjRz?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-fd50c3cbd89aed",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 624,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 05:14",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "20-25万续航好的车哪款好？3个维度实测说清，别只看数字+FAQ",
-      "summary": "手机新浪网于11月16日 05:14发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "title": "发新车比下饺子还猛！两天发布17款新车，汽车行业这是怎么了？",
+      "summary": "手机新浪网于11月16日 23:32发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 手机新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：手机新浪网",
-        "发布时间：11月16日 05:14",
+        "发布时间：11月16日 23:32",
         "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
       ],
       "angles": [
@@ -301,254 +213,38 @@
       "sources": [
         {
           "name": "手机新浪网",
-          "publishedAt": "11月16日 05:14",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsWUtKZFJaRnpfbE1mZk5aR3pxUVlMMTRiR1ZaSVdmS1RhdmFLRHdtVGlCekZzRXY0VnROYUdvR0w1RjRmN1J5Ty1fQVU4cVgtcVJ3Q1R5cXFqRDZLUlJHajFpMlhjc0pYcnFKWm9Ybldvdw?oc=5"
+          "publishedAt": "11月16日 23:32",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mQ1JfdTRfcmNUNTRJWk1tSHNnZ0ZxME95WVdkNmZ0OXRPYXptT3A4U0Z0TDZuU1NuLW56MmJpZmRuemoxVm5FekhzLTBMaXA3UzZmcUV1TFpSU2xpSTlnLVRsamtQR1J0bTlQVGhwZVhvbDA2Vm1WTUpnM2VkbjA?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-963611185bf8b8",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 624,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 05:14",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "续航长的增程车推荐哪款好？3个维度说透2026年5款神车+FAQ",
-      "summary": "新浪网于11月16日 05:14发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 05:14",
-        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 05:14",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96ZHA0QW9uTDBpUlYtbGhnQmUtb1dwWVFybDZRM0p3aWlodkcxdWthT1BSVFJjU1M1dFhmalduNlE1d2FHWlhSeWFEb3NXa2FUY195djhPemZOc0EtWUVR?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-8f3e00565bdb91",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 95,
-      "create": 93,
-      "time": 887,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 00:51",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "理想",
-        "小鹏",
-        "问界"
-      ],
-      "models": [
-        "小鹏G9L",
-        "理想L6",
-        "问界M6"
-      ],
-      "title": "最近上市的新能源SUV盘点：小鹏G9L、理想L6与问界M6怎么选",
-      "summary": "新浪网于11月16日 00:51发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 00:51",
-        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 00:51",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAySnBuSENrNzQ5WWZ5cFhtVldHWjF4SW5uZElad1RzRVFhTWowWHcxWFdDZ1hWWTVrSkhOdHJfZWlZYXN5Qk9DdlVBM2hvazBlczNiZDJxSndEYktzLU9N?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-0c73210c1e4a2a",
+      "id": "news-ff6fced69ade56",
       "type": "event",
       "category": [
         "正在爆"
       ],
-      "hot": 94,
-      "create": 92,
-      "time": 901,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 00:36",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "极氪",
-        "理想",
-        "小鹏",
-        "智界"
-      ],
-      "models": [
-        "小鹏G9L",
-        "理想L6",
-        "R7"
-      ],
-      "title": "25万级大五座SUV盘点：小鹏G9L、理想L6、智界R7、极氪7X怎么选",
-      "summary": "新浪网于11月16日 00:36发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 00:36",
-        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 00:36",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91VkUzS0xGMHBQZlJxNkxTdk1GN3pOMXptenhqejBUWnBKbEJ4YjFQV0loZm9OX24tY2RaeWVYMVFTRlc1Q0d5V1VJNlZJRERvdnZ4WDNTc0oyNV9Hc2pj?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-00195308d5ad61",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 93,
-      "create": 91,
-      "time": 1230,
-      "timeText": "24 小时内",
-      "eventDate": "11月15日 19:08",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "13款新车扎堆上市！第46周（11.9-11.15）上市新车盘点",
-      "summary": "汽车之家于11月15日 19:08发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月15日 19:08",
-        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月15日 19:08",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NR1htdm1kRkFRVXlzRmV6bFIyLWhxdjBEYTZodUVaR1VzWEp5dGdDTEtZNk1DV3dBQ29sYW5ZYWZHVXcyUl9kVzBsNDlaMVFUcUJ5QXhieEx6Tk0?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-ea288027c6f540",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 93,
-      "create": 91,
-      "time": 1257,
-      "timeText": "24 小时内",
-      "eventDate": "11月15日 18:41",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "小鹏",
-        "大众"
-      ],
-      "models": [
-        "L2"
-      ],
-      "title": "【图】大众与众09首发 与小鹏合作车型 搭增强版L2驾驶辅助 下半年上市",
-      "summary": "汽车之家于11月15日 18:41发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月15日 18:41",
-        "热度信号：命中 2 个汽车主题，跨源/重复 2 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月15日 18:41",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1reTVPNTRrdVZwbzBHNXFoWEVIN0k2bDdqWnhsNkVZVUNTTERMN1poa0hHZzB0OUc1cndLcXRJcXY2Rk1tX282S0U0ME4wM2ttYjlER1VHWFA1WV9XbUNMNGN3?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-d5996233d83c2d",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
       "hot": 96,
       "create": 94,
-      "time": 409,
+      "time": 363,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 08:48",
+      "eventDate": "11月17日 10:44",
       "status": "公开新闻源已采集",
       "brands": [
-        "汽车行业"
+        "深蓝"
       ],
       "models": [
-        "Z7"
+        "S05"
       ],
-      "title": "11月20日上市 尚界Z7T星野套装展车到店",
-      "summary": "汽车之家于11月16日 08:48发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
+      "title": "【视频】实车体验| 全新深蓝S05智能驾驶辅助体验",
+      "summary": "车家号于11月17日 10:44发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 08:48",
+        "来源：车家号",
+        "发布时间：11月17日 10:44",
         "热度信号：命中 1 个汽车主题，跨源/重复 2 次"
       ],
       "angles": [
@@ -557,79 +253,40 @@
       ],
       "sources": [
         {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 08:48",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44X1RkbGFJQzhQcW5vQVVPNFpQbVNXWVFLQTRKZmQ4V0ZWRGdabWdjY1JnajJpVUpJcmIzNms3MHc0Tm1MQU9WX1Q2SHpLYjFVdzR2N3VLNGhYWEk?oc=5"
+          "name": "车家号",
+          "publishedAt": "11月17日 10:44",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxYUdDakNlOWlCQmdGU0JUTG1nZngyZHROUkUtOXNUSzFwZEJweVp3c3NqN3pUel9Bbm83ZVh1SXNNS0xacm40eGxhTDN1SFRueTVRczdXc3hzUzg?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-cf454b127dc845",
+      "id": "news-b9f26fca34f933",
       "type": "event",
       "category": [
-        "正在爆"
+        "正在爆",
+        "补能与续航"
       ],
       "hot": 96,
       "create": 94,
-      "time": 18,
+      "time": 0,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 15:20",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "东风",
-        "日产"
-      ],
-      "models": [],
-      "title": "东风日产将携全系助阵2026湖南汽车巡展益阳站",
-      "summary": "手机新浪网于11月16日 15:20发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 手机新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：手机新浪网",
-        "发布时间：11月16日 15:20",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "手机新浪网",
-          "publishedAt": "11月16日 15:20",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GNzVtc3FsVHN2WEE5QkRvalI1aGlhTW5aaWZ0NTNORU50a19SOGFSdnl1TXJYYkFiaDNGUnU2ZW5JT29nQ0VKZjk3b3NfWFFYQ2dVbnVWdXVpZUNQcm8za0w5MS1xaGsxbm9GQzd5QnlINnk0ZUc4M3p4NUthZWs?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-47eee93ffe47db",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 34,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 15:04",
+      "eventDate": "11月17日 16:47",
       "status": "公开新闻源已采集",
       "brands": [
         "汽车行业"
       ],
       "models": [
-        "QQ3"
+        "A9"
       ],
-      "title": "【视频】准车主必看！8万多买QQ3摩登版贵不贵？一条视频讲清楚",
-      "summary": "汽车之家于11月16日 15:04发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
+      "title": "【视频】买车“不烧心”！风云A9怎么做到一周一充，周末出游也不用充电？",
+      "summary": "车家号于11月17日 16:47发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 15:04",
+        "来源：车家号",
+        "发布时间：11月17日 16:47",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -638,42 +295,525 @@
       ],
       "sources": [
         {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 15:04",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPcFdRUzJGZmxKM3ZOa1piV0t6ZjRlb2MwMTRUVXZqUk5MQ3ZOTkY2eFRTUk9wWXNVTFJjeFFtdTMwaG9DNlIwQnJNUkFhSy1Pd2MwMDFSWFlZSjQ?oc=5"
+          "name": "车家号",
+          "publishedAt": "11月17日 16:47",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fMm5tM0t3U0NCUnlzWDVucHB5RFlFazItOV9tQThFT29VdTZ4SzZTN3F2anBvWmJkQ3JFVEowN2psODdNN3dNelpJUHhxeEZxYU9tcUJ4RDdaYTNRT3JZbkZqVmJTUDZxX21z?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-482904bb0e3a2d",
+      "id": "news-3f7cac73870fda",
       "type": "event",
       "category": [
         "正在爆"
       ],
       "hot": 96,
       "create": 94,
-      "time": 43,
+      "time": 15,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 14:55",
+      "eventDate": "11月17日 16:32",
       "status": "公开新闻源已采集",
       "brands": [
-        "理想",
-        "问界"
+        "方程豹"
+      ],
+      "models": [],
+      "title": "方程豹钛9入场，全尺寸旗舰的“够用”正在被重写",
+      "summary": "车家号于11月17日 16:32发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 16:32",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 16:32",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14aEQyUW9wbUV2WXoyc0xvZEVnRFJpdTRxMnkwYklsZGVJNVNfbWtIMHdwRjlHT3o2LXk4ZUZfVzY4VkowUG0zREZaSjdZaWVVRE9aTUVjNW1VT0E?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-67f019fc7dd5fa",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "补能与续航"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 19,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 16:28",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "冬天续航打对折：先分清特性和故障",
+      "summary": "车家号于11月17日 16:28发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 16:28",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 16:28",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3cjdFMWpNMHFDRXA0Tkd6SUZRZUpqdWtOV2FSTk9ZNUJvajZBZ3F0MlB6VXBueW5CRTFUTlVGeXg3WUt4ajhUZnZRNzRrSnp2ajBUVGMtbGFYQXR1V3RlQjRHRTliWTQ2OEpR?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-f0c6760d3494d5",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "车辆安全"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 33,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 16:14",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "福特"
+      ],
+      "models": [],
+      "title": "福特汽车公司将在美国召回60956辆汽车",
+      "summary": "东方财富于11月17日 16:14发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 东方财富",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：东方财富",
+        "发布时间：11月17日 16:14",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "东方财富",
+          "publishedAt": "11月17日 16:14",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uZE5PQlFQNDd0ZzdTV3BuZWdlYkJYMXg1OWkzeVF1MTZNbFdxdmdjTHktV1JLVTYzMXg3bzJPOGJydEdvRVZydks0emJDb2ZBLTVlQXZQNDZDbTRlNk1feWs0Zw?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-a6aeb82a55fdb3",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 38,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 16:09",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
       ],
       "models": [
-        "X9",
-        "理想L9",
-        "问界M8"
+        "T11"
       ],
-      "title": "长途自驾带全家，奕境X9、理想L9、问界M8三款增程大六座横向对比",
-      "summary": "新浪网于11月16日 14:55发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "title": "2027款风云T11年度改款上市",
+      "summary": "车家号于11月17日 16:09发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 16:09",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 16:09",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14dU5hbVpUZHZXNGhWN242MVBiVERDMUtlM3hWSVc3RUFlWFlmT2hra2pGVTRJZzgyQU9oNmRIVGp2TlhWT09kYWUtSFR5clFISGZ5Y2pOOXJMc1lJWGxySndKd3B3ajNHSnNj?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-8406f0b67f7287",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 46,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 16:01",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "比亚迪"
+      ],
+      "models": [
+        "汉成都首发"
+      ],
+      "title": "【视频】5分钟快充+云辇空悬比亚迪大汉成都首发!",
+      "summary": "车家号于11月17日 16:01发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 16:01",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 16:01",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUS1VMklTV0VjaWtxQ0pEWVE4WXpuVGw0Y3J0VnFEdzBtZF9GMGRpa0NPRmlmR1k2TEdlM2I3QzJzNFZBdnoxUTRXS2IxTG5QREgzZldGSnBqR3M?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-0e3246e88df57c",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "补能与续航"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 53,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:54",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [
+        "i3"
+      ],
+      "title": "新世代BMW i3充电速度怎么样 支持快充吗 公开技术与日常补能指南",
+      "summary": "车家号于11月17日 15:54发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 15:54",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 15:54",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpN3N0Y04xTk44WWtPLVRYYjl0S1BVOEN3aG1lUTVvbk4zTk5zbkl4V2RmdWlnc2wxZlIzNjdlXzZyUWRTYllwNlVwSE14UkVrc0syZzBRcGpQbTQ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-b5c0b43f0f5a24",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 55,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:52",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "一周多款新车密集上市：年末置换窗口再开",
+      "summary": "车家号于11月17日 15:52发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 15:52",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 15:52",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VaGlScHFyNXVjM1JBbWRKdkNZYjJSQTZEZi12LTZ3WVQ3YmR6Q1cxa3diX2Q5UUJZVjRwdEQ1LS1sOWQxZHdwWmdwRXpuNjVBeGt4d2ZRMEc4VTg?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-591f1b574a562a",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 59,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:48",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "前10个月数据折射我国汽车产业求“新”向“智”",
+      "summary": "国际在线于11月17日 15:48发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 国际在线",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：国际在线",
+        "发布时间：11月17日 15:48",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "国际在线",
+          "publishedAt": "11月17日 15:48",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KS19rMC1ORUhja0k4djVRcTBvYWtfaHo5S3NhZUtmbzhXbU5lYmVfWm1xQS1HaXZRVVlLVXRzZl9UYlNIVVFiSGJHS0Q4STZnRlBaenNNQ3hLS3ltX0NSb3RaZzRjMmFqMDdUcVNJVVI2cjM2b0JaWE93?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-df893ed5a89d0d",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "车辆安全"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 61,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:46",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "小米汽车"
+      ],
+      "models": [],
+      "title": "小米汽车辟谣：“召回短信”为虚假信息",
+      "summary": "https://www.mrjjxw.com/于11月17日 15:46发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · https://www.mrjjxw.com/",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：https://www.mrjjxw.com/",
+        "发布时间：11月17日 15:46",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "https://www.mrjjxw.com/",
+          "publishedAt": "11月17日 15:46",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTOTZIUjdZYkZMRzJaWXB0ZThjdGViSG9aODVrR1FDcGl3dFZhbkh1Q2pqaTFLMDZkSFROZTZ2TnRQVDlSUjMxeFJkUEFESlpTelc1QzZmbnY0Q3Q1X21kY09zcHJqQQ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-faf640af4deae1",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "补能与续航"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 65,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:43",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "小米首次开放电池产线，背后藏着一场供应链博弈",
+      "summary": "21财经于11月17日 15:43发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 21财经",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：21财经",
+        "发布时间：11月17日 15:43",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "21财经",
+          "publishedAt": "11月17日 15:43",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYm40OTJWOUdFMVNhM1BtQmV3RFY0M0VyNUZuZUpJYm80TWxYck9yZUxBcV9rOU1SQWZtYkZPWWtzQjZ1VTJMZDVBX0c3NnlXT0xVWEVoX2hScDBaZmczUVlOb3QyU3lYVXhxMU5QUEtscDZFZW5JQXlCZE9Ta3hYS3dwa2Vxb1B5TU4tRUF0QQ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-d7185b42650395",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 68,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:39",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "仰望"
+      ],
+      "models": [],
+      "title": "仰望鼎曜领衔，广州车展仍会星光熠熠？",
+      "summary": "车家号于11月17日 15:39发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 15:39",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 15:39",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UZjQ1d19ScWc1YjhxQXpiNVBxV1c3NVZEVDB1MmZuU01lelRJV0gtV0NrRlZlVUZ4OUxZR09BRnJjdkZTUmNXWFVpMkU2OEJzdHFtQzhubkg5X1l2bVp1ZmNJeWgzN3Y0V1Aw?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-a6dd339a680719",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 72,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:35",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [
+        "汉EV凭啥上市20天就登顶"
+      ],
+      "title": "大汉EV凭啥上市20天就登顶？聊聊这台让我心动了的真9系旗舰",
+      "summary": "车家号于11月17日 15:35发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 15:35",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 15:35",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KWE5pRFp4Q293Njc0VXlGeGs1cW1ZMjJ5SkJzV3Atc3M2NUZ3VFhFaXlFWEd1QU5qNk8tbnhpMHpzVkdvM0NNdGdyQlg0SldvYy02THRpSUxNTjlvVXRZeVRBVmhVR3Zhc2lZ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-a17540d87320d2",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "补能与续航"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 74,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:33",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [
+        "宋Pro新能源9"
+      ],
+      "title": "宋Pro新能源9.99万起值得买吗？3个维度说清220km续航怎么选+FAQ",
+      "summary": "新浪网于11月17日 15:33发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：新浪网",
-        "发布时间：11月16日 14:55",
+        "发布时间：11月17日 15:33",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -683,15 +823,98 @@
       "sources": [
         {
           "name": "新浪网",
-          "publishedAt": "11月16日 14:55",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5haUdnWmxJZHlsSUxwN2ZQZVBXTm5ZeGhWSGg5Rk9jZ2I3UlJmRTdTU0s0NkczcFduc0lWTmlYVG84U0M1UkZHakc0Nlg4MGxVRURFMDJCXzRkUDdjblhV?oc=5"
+          "publishedAt": "11月17日 15:33",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vRG5pSElGYjVqREVfOHMzQVEtUG5pek9FT1NBRTRONkFPbndpNHVtbzIwaUF5ZFRYMDhnSk1ObnZKWi1PUE5zOWwxNnc4UzR3UzE3Y21tZ3VQV0dtTi1j?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-5be43d237f0015",
+      "id": "news-79df4bb2e5725b",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 74,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:33",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "岚图"
+      ],
+      "models": [
+        "EV 202",
+        "MPV 3"
+      ],
+      "title": "岚图梦想家EV 2025款值得买吗？35万级纯电MPV 3个维度说清+FAQ",
+      "summary": "新浪网于11月17日 15:33发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 新浪网",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：新浪网",
+        "发布时间：11月17日 15:33",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "新浪网",
+          "publishedAt": "11月17日 15:33",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02aVk5ZklqYlRMM1FTTUxfdUJXd3BiREplXzhLekVkUGphT3J1bzdDYXpaRnd1WGtqZnFldkk4YmVja1Bjb0NsQ2pGdDNza3hQUGg0N1RZRm53N1ZRNmhz?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-686619f65c311c",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 96,
+      "create": 94,
+      "time": 77,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:30",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "蔚来"
+      ],
+      "models": [
+        "ES8"
+      ],
+      "title": "【视频】开了8000多公里，蔚来ES8越用越觉得爽？",
+      "summary": "车家号于11月17日 15:30发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 15:30",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 15:30",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OS2lPY0ltbERiNTNjazRzY3hMckluTmR6Q2h4S09OazhlREpKUEhIc1hfaFlBRkotQWh6akZrM24za2ZidlpuWXl4WWRXX1lkdF9ZbndjNnlpbU92ZDVQWHd1WVZtODM4alpN?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-109c91b12a1f92",
       "type": "event",
       "category": [
         "正在爆",
@@ -699,21 +922,21 @@
       ],
       "hot": 96,
       "create": 94,
-      "time": 56,
+      "time": 85,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 14:42",
+      "eventDate": "11月17日 15:22",
       "status": "公开新闻源已采集",
       "brands": [
         "汽车行业"
       ],
       "models": [],
-      "title": "电瓶车续航3200公里是怎样实现的？",
-      "summary": "汽车之家于11月16日 14:42发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
+      "title": "假期自驾最怕临时改路线，续航长的插混SUV推荐如何挑？",
+      "summary": "车家号于11月17日 15:22发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 14:42",
+        "来源：车家号",
+        "发布时间：11月17日 15:22",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -722,123 +945,40 @@
       ],
       "sources": [
         {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 14:42",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DSzV1UGsyZVgzVFpOX2NvM0J0aHI4RWF3ajZ4akQ0V3JuOUhyWVYyc0VmYWpBNkRGVkFrMkhtUVhRMzFNblNFYUplemRQUWJJMFVqcXVTdw?oc=5"
+          "name": "车家号",
+          "publishedAt": "11月17日 15:22",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXTzhOREMtUXNRQUlxZkxDSEowdVhNTzgtd3NmMF91XzN0VGpLaE5pX2RXMi1mZllwbVNOYUxwelpBd0pvZnV5eFR1MHZGT25aYnVzU3ZEZ2FBT1k?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-b51bf931ead5f8",
+      "id": "news-1dc56578e26240",
       "type": "event",
       "category": [
         "正在爆",
-        "行业数据"
+        "补能与续航"
       ],
       "hot": 96,
       "create": 94,
-      "time": 68,
+      "time": 87,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 14:30",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "15万家用SUV，销量榜靠前的几款车分别适合什么人",
-      "summary": "汽车之家于11月16日 14:30发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 14:30",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 14:30",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wMG93M2ZfTlhneVMtd25HMEZHRkNnR2JzdXFyYU9Sdk52T3V4bTVOMGxSdVZFeHZRVURGczNROVRHdDNxemhhVVJjSzZRdjFPa2NDNGJUZjJnRE0?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-fb52b87ee2c9c8",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 80,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 14:18",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "比亚迪"
-      ],
-      "models": [
-        "汉L风格",
-        "汉内饰谍照曝光有望广州车展首发"
-      ],
-      "title": "基本延续汉L风格？比亚迪全新汉内饰谍照曝光有望广州车展首发_新车上市",
-      "summary": "中金在线于11月16日 14:18发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 中金在线",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：中金在线",
-        "发布时间：11月16日 14:18",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "中金在线",
-          "publishedAt": "11月16日 14:18",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VY0pQYy14UmgwUXVFZnlfYnc1WkhSQkRaNUttTHYtQnlSbVdsQjF2cFhzNWNsREQwVXQ2NUs4MmUwZUhHV0xIbUVSYW4yc2I5bXNtVlFvbXBqRmVBanZOOVlaMDhkckZhU1R1RA?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-cf44538bea3f01",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 80,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 14:18",
+      "eventDate": "11月17日 15:20",
       "status": "公开新闻源已采集",
       "brands": [
         "汽车行业"
       ],
       "models": [
-        "V8"
+        "i60"
       ],
-      "title": "搭2.0T油电混动/现款插混版本23.98万起魏牌V8X HEV将于近期上市_新车上市",
-      "summary": "中金在线于11月16日 14:18发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 中金在线",
+      "title": "家里没充电桩，AION i60和铂智3X的700km和520km续航差距有多大？",
+      "summary": "车家号于11月17日 15:20发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：中金在线",
-        "发布时间：11月16日 14:18",
+        "来源：车家号",
+        "发布时间：11月17日 15:20",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -847,37 +987,118 @@
       ],
       "sources": [
         {
-          "name": "中金在线",
-          "publishedAt": "11月16日 14:18",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Hbmp2ay1OWk9oSXZkZU0yeUxDOVhyLXBCdnJzbmMzYl95WUdERXhRTWpTRW9ubkdfSm15NFMwbUtfMG1hRm1PNkNmLTMtNzdFSlZYMmpWR1hncTBKTVVZQW5wVnhPZnhaWWMzMA?oc=5"
+          "name": "车家号",
+          "publishedAt": "11月17日 15:20",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDQTY2TFNzTUtkZGtyeExwUEFHZE16bktwcHJ5YlJSRVp6M0lZaXI5eUJGZHViMUItUHRiSWd5VXBhNEtJRk0xVEVYc0o1WVZ6WXhvb0NMRnlZV0U?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-5e67089d0e9f22",
+      "id": "news-374ba92262aa39",
       "type": "event",
       "category": [
         "正在爆"
       ],
       "hot": 96,
       "create": 94,
-      "time": 82,
+      "time": 98,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 14:16",
+      "eventDate": "11月17日 15:09",
       "status": "公开新闻源已采集",
       "brands": [
         "汽车行业"
       ],
       "models": [],
-      "title": "预算15万选家用SUV，五款热门车型对比盘点，空间与用车成本是关键",
-      "summary": "手机新浪网于11月16日 14:16发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "title": "私家车自己接单挣钱？马斯克：最早12月份启动车主Robotaxi试运营",
+      "summary": "热点科技于11月17日 15:09发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 热点科技",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：热点科技",
+        "发布时间：11月17日 15:09",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "热点科技",
+          "publishedAt": "11月17日 15:09",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRTWhSMW9wZFJuLTd4NUZHdnpCTnlJODR5blBoTWRFT2ZtWWhYcTN6WXdkVWd5MzZlcVkzUTd6SVhIQU5GRnZpbnktWGNRcFU?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-7b353b15d6a42d",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报",
+        "车辆安全",
+        "行业数据"
+      ],
+      "hot": 95,
+      "create": 93,
+      "time": 105,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 15:02",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "国家市场监督管理总局发布车辆召回通告",
+      "summary": "新浪财经_金融信息服务商于11月17日 15:02发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 新浪财经_金融信息服务商",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：新浪财经_金融信息服务商",
+        "发布时间：11月17日 15:02",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "新浪财经_金融信息服务商",
+          "publishedAt": "11月17日 15:02",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN3BmY1lEc2ZqWUJqektMSHRiSVBhSXk1MURGTjdwMmRBczliU3RMUUFmZGZsVkc1RXJzYUxwUGwxRmVCNmQ1UWYxNkZHVGdrNXZwdjg1VWllTXEteFhWTnNOOVdUNXkzdHJnbDFIR1Z6RVpMVy1Fbk0xVWZDTUJHRm5PM3ZQNkdiekVpdldWRzdzWFZRbkpTZw?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-3efa7d5fc1fb04",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 95,
+      "create": 93,
+      "time": 143,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 14:25",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "当中国供应商忙着亮相全球车展，我知道汽车产业是真强大了",
+      "summary": "手机新浪网于11月17日 14:25发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 手机新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：手机新浪网",
-        "发布时间：11月16日 14:16",
+        "发布时间：11月17日 14:25",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -887,337 +1108,15 @@
       "sources": [
         {
           "name": "手机新浪网",
-          "publishedAt": "11月16日 14:16",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MZGEyV2VOQWFLZmxpZURSSENZOThfemVRVmxfN0lqS1NIcnpYRG5XUVFRdHBEWlBCSkMwZmt1REFUdzEwN0hZLWp1QUhrRk5vSU5NSmJCX1VjUEVJd2pzUllta2lMZXlOLXVQMUs5YUJFRV9qYnQwNHd0TkRIcWM?oc=5"
+          "publishedAt": "11月17日 14:25",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wTFhtdkVqRTFCeUxwZWxCQlpsa3ZiQ1BSTDVVMm5Mc3pScXRUZVM2STE4QmM5aVEydEpOOTk5ZDhEUEF4UVA2OTBoU1RsRnd1b2llNndtVWtuNnBaTlpSaDZrLV85MUs4Q3hIRzA2VDB2bnFJMlRyOEVXV0c2UQ?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-9d49a292202541",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 84,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 14:14",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "本周新车上市规划：5款重磅车型抢先看",
-      "summary": "手机网易网于11月16日 14:14发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 手机网易网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：手机网易网",
-        "发布时间：11月16日 14:14",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "手机网易网",
-          "publishedAt": "11月16日 14:14",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2SlVFUzRwQ19TRXB1SGg0X3FtU2pTRGdOZEctVW9hQ3hSQjgyVjhjVE5yTXkwRTZibXdFUXRRT0t4WnNrclQ5MFVCeEY0QVktQy01Tnl2dzl4cFg1VU9NaU5n?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-2263ff3e1cb6a9",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 101,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 13:57",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "宝马"
-      ],
-      "models": [],
-      "title": "中期改款5系领衔/10余款新车宝马2027年新产品计划曝光_新车上市",
-      "summary": "中金在线于11月16日 13:57发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 中金在线",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：中金在线",
-        "发布时间：11月16日 13:57",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "中金在线",
-          "publishedAt": "11月16日 13:57",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1R1N2ZFdyREg3TlVYM3Z6VndQTVZKUHJnZ0hoMXJsSEpZNV9oSXNuN1EtRXFhVWtNX2tBaFZrQTlVOVREbkFhMDd3cHRRcEt1cklkajRKal9ZRGVkX2QwZTBhV3hrXzZqVWFVQg?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-3ca530181f2c0b",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 101,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 13:57",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "吉利",
-        "银河"
-      ],
-      "models": [],
-      "title": "吉利银河购车至高享4万元焕新补贴战舰700限时焕新价16.98万元起_新车上市",
-      "summary": "中金在线于11月16日 13:57发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 中金在线",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：中金在线",
-        "发布时间：11月16日 13:57",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "中金在线",
-          "publishedAt": "11月16日 13:57",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xVzJJbjlwSzUyNFAyaENGRWN1dVk1QzBsLU1ZMVNzT1ViRXRVWVpDaHNoanhSTGJKczBablQ3MTlkWFpwXzd2SFhHcHAtamd0SmZKY0FoZGxJTlF0a3NQWWluNkZwLTZTM3RtYg?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-59707664caf343",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 96,
-      "create": 94,
-      "time": 132,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 13:26",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "日产"
-      ],
-      "models": [],
-      "title": "新车保鲜期只剩三个月，日产将引入NISMO",
-      "summary": "汽车之家于11月16日 13:26发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 13:26",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 13:26",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiUDh1QkNUY3FsaUY2VWZ1Um9xaXJVV2labjRYODB6Qmt6SnVCWnhZUGU3a1M3b0dqOXFxc2hqXzBLOVphODBtS2VZVVlTclBqM0RyR3NJSDVyTWs?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-06b0d4a7f77909",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "车辆安全"
-      ],
-      "hot": 95,
-      "create": 93,
-      "time": 138,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 13:20",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "车辆召回信息！超5.7万辆→",
-      "summary": "潮新闻客户端于11月16日 13:20发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 潮新闻客户端",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：潮新闻客户端",
-        "发布时间：11月16日 13:20",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "潮新闻客户端",
-          "publishedAt": "11月16日 13:20",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhTHE0Q1U0YzZ2eXNmWHRYS2VJQWgxSUV2YlNFYkFOYTBJdDV6SllUbXNraHpMa2dSbURqekNWNElPUUt5bm84alJ6Q2F3cjZLUnp4RUNUZHhzMGFFd2VFdC1kcEY4enhUaWF2a3hQLXB4bzA?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-df77826ddf6a6f",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 95,
-      "create": 93,
-      "time": 145,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 13:13",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "东风"
-      ],
-      "models": [],
-      "title": "东风云南汽车有限公司党委书记龚先华接受审查调查",
-      "summary": "汽车之家于11月16日 13:13发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 13:13",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 13:13",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRNW5LZXd5aUxDQnROWHQtdkFMZXYzSmloQXRxSUxJZG4xT2U4UzdUcnJDR3RfMy1IN3pxa2NyZ0htbXZoaVI2RlJPeGU5UmNJeEptUkxTQUFwYUFTb01jNGRKMU5XdS1Fa3c?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-49875f38325926",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "行业数据"
-      ],
-      "hot": 95,
-      "create": 93,
-      "time": 146,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 13:12",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "腾势"
-      ],
-      "models": [
-        "N8"
-      ],
-      "title": "腾势N8大换代 “降维打击”大五座市场",
-      "summary": "Sohu于11月16日 13:12发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · Sohu",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：Sohu",
-        "发布时间：11月16日 13:12",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "Sohu",
-          "publishedAt": "11月16日 13:12",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDJGbjBpZkZkTnFvRk1iTjk0WlN3aGl3UEpvOW9Nd3ZQV3lyZ1F1Mjg1TS01NHdVTncxZWlvYU0wVEtGVzdTUjltWWNrb0dLVGV4ZkJ2dmduWGU2STJ0WUJLcTRxcFlzc0ZOMUV0U1g2MmdiTG8zcVJwTEd4d3FzcWlEbXpkb1lm?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-7c9dfeab9941be",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 95,
-      "create": 93,
-      "time": 146,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 13:12",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "续航超1000公里的电车，杀不死油车，反而会杀死电车本身！",
-      "summary": "Sohu于11月16日 13:12发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · Sohu",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：Sohu",
-        "发布时间：11月16日 13:12",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "Sohu",
-          "publishedAt": "11月16日 13:12",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXBlYWVBTDZjbTBTUUZHYmM2N1lpc1FXejRFNjdkemNORVVnVjd6RjFSbHJtWklYeFlmZWp1Yzh5Y3F2MXd6aUZiSUdDQjJBZ2JPMDh2NzdzLW14SFR5OGdadUNGTVY1OTU5YlVKSHVJbVZPbFJzYXg4a2F2alNwZ3ZnZ0g0cVF5?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-3494d39b795455",
+      "id": "news-382b2b2b82f383",
       "type": "event",
       "category": [
         "正在爆",
@@ -1225,21 +1124,21 @@
       ],
       "hot": 95,
       "create": 93,
-      "time": 151,
+      "time": 154,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 13:07",
+      "eventDate": "11月17日 14:13",
       "status": "公开新闻源已采集",
       "brands": [
-        "极氪"
+        "捷途"
       ],
       "models": [],
-      "title": "疑似极氪009插电混动版谍照曝光不止新动力，外观也有所调整_新车上市",
-      "summary": "中金在线于11月16日 13:07发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 中金在线",
+      "title": "【视频】通勤露营跑山全搞定，捷途环游者EV预售价9.99万起",
+      "summary": "车家号于11月17日 14:13发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：中金在线",
-        "发布时间：11月16日 13:07",
+        "来源：车家号",
+        "发布时间：11月17日 14:13",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -1248,94 +1147,16 @@
       ],
       "sources": [
         {
-          "name": "中金在线",
-          "publishedAt": "11月16日 13:07",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTDlTSzEydjktV0RTbjEtRUZsSmd6NUF4ZUJ5UHhnTGlPVTFYYTAyWER3THpVLVZDMXdBUkdfSDdwMk1OOHV1NE9PMHZGOEFSd2hqWjJYYTZaZ3ZUSWNRQTlMdnRGcWxyUnF1YQ?oc=5"
+          "name": "车家号",
+          "publishedAt": "11月17日 14:13",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nYzlYUkg5cjI0M3p3VzFDY1BMMUdMaDlhN3c1enh5YTkwblFncnN1N0R1VnhxbUhycks1Qy1weVB1NzcwUDVsZDVGRE5NTFJILXB2RHRDQktKQkU?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-a71bcd049277bb",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 95,
-      "create": 93,
-      "time": 155,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 13:03",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "比亚迪"
-      ],
-      "models": [],
-      "title": "比亚迪在韩国进口车市占率提升至7.0%！",
-      "summary": "爱咖号于11月16日 13:03发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 爱咖号",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：爱咖号",
-        "发布时间：11月16日 13:03",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "爱咖号",
-          "publishedAt": "11月16日 13:03",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WUjRFdUw0TWlfRXRqTXNOeUZqeHhDaFdSbVZwbjhxcnBSbFQwSHhDcUNFWkpLWEx4VWhQNWlwel8wSDNNNTU5NkZEcDBFS1ZRcVJUdDJSMFk?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-3e365111dc58a1",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 95,
-      "create": 93,
-      "time": 164,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 12:54",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "宝马"
-      ],
-      "models": [],
-      "title": "宝马亮相2026世界智能网联汽车大会，携手中国信通院深化合作",
-      "summary": "Sohu于11月16日 12:54发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · Sohu",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：Sohu",
-        "发布时间：11月16日 12:54",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "Sohu",
-          "publishedAt": "11月16日 12:54",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdnFlYXRaSkd4RlQ5aVl0ZXpJU29La3dfSjZOMWNEZlg4ckZJeldUeUVsWHU1dm5IbjhLelZqM09NN0hxT3ljMkI0c2ZwQlM1SW9jdFNMUXQ0R1hpWFFnNzQ4OGtoX3NreWNSZk5USXJrdndhNHJDcHE5VmJWejdjd0JYbDhSN1l5S2hvNg?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-5ea5d472c730fd",
+      "id": "news-e5b565b4612b4c",
       "type": "event",
       "category": [
         "正在爆"
@@ -1344,20 +1165,22 @@
       "create": 93,
       "time": 169,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 12:49",
+      "eventDate": "11月17日 13:58",
       "status": "公开新闻源已采集",
       "brands": [
-        "比亚迪",
-        "吉利"
+        "奥迪"
       ],
-      "models": [],
-      "title": "吉利4分半充70%，比亚迪5分钟补400km",
-      "summary": "汽车之家于11月16日 12:49发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "models": [
+        "A820",
+        "A8L"
+      ],
+      "title": "【视频】奥迪A82018款A8L 55TFSI投放精英型",
+      "summary": "汽车之家于11月17日 13:58发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 汽车之家",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：汽车之家",
-        "发布时间：11月16日 12:49",
+        "发布时间：11月17日 13:58",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -1367,80 +1190,156 @@
       "sources": [
         {
           "name": "汽车之家",
-          "publishedAt": "11月16日 12:49",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pYVlhMm9DR0ZOZmdVOXoycVlENEREYVAySzMwU21hd1N1a2t5TDVJNGNRUDZLWVY2WW5yalZ4UmNoMFRUVXQ0UXdkdU1SQ3lBWWRTY2VQbUMwT2s?oc=5"
+          "publishedAt": "11月17日 13:58",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43MHpMQWlreWZaRFJ6Vjc2RFRjR01fUVJlVXZSbU5MMUxmUDg2anM3MTR1cW9KSExja0pPaXkyN0JyMG9oamN3UGc2NWFlVWhWa3pYb3o2MVA3d1FXUHg2aWlycG92dHNnVDk0?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-9321884bb0c578",
+      "id": "news-32bf4056722a88",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "行业数据"
+      ],
+      "hot": 95,
+      "create": 93,
+      "time": 171,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 13:56",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "奇瑞"
+      ],
+      "models": [],
+      "title": "新能源销售再创新高，奇瑞集团公布10月销量295934辆",
+      "summary": "车家号于11月17日 13:56发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 13:56",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 13:56",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvWG8yWjRkcHUtcm5kUHNrUm5kNEdYNWVxeFBrdWRWcTFCN2xJcDBrOHBXVmc2WVFZV0w2NTliLW91ZmFMcTNwR0JwRzd1WHFlTDlGakpmUlRyTm8?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-f2856c2239c163",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "车辆安全"
+      ],
+      "hot": 95,
+      "create": 93,
+      "time": 172,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 13:56",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "小米汽车",
+        "大众"
+      ],
+      "models": [],
+      "title": "看到20 万贷款记录才后怕，小米汽车召回短信别乱点|小米汽车|大众汽车|徐洁云|诈骗_新浪新闻",
+      "summary": "新浪网于11月17日 13:56发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 新浪网",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：新浪网",
+        "发布时间：11月17日 13:56",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "新浪网",
+          "publishedAt": "11月17日 13:56",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XQnFrTjJVWXJkQTM1LTh3aEhoVTRiTXktWXVURjM1Y0ZGWExUS19nX2poX1FuT28zcmN5MkZTai0wMlNVa1p1NE9xSVhTRkx3MVNMOTY3UTNkX2J1NEN3RnVmNA?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-78fd0f8ed6fdb6",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 95,
+      "create": 93,
+      "time": 173,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 13:54",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "极氪"
+      ],
+      "models": [],
+      "title": "THEMiS影像共创计划｜中国汽车画报 × 极氪 01：牧野秋境",
+      "summary": "汽车之家于11月17日 13:54发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 13:54",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 13:54",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DcHM2VzFvQkFjNjZiMnpRdXBhMzdjSE44enQ3VHQ1aXgwVEk3NUd4Q2V6OUNaZExWLVdlLXhycEJuenBfMm0zRzBXeHVNUjlkMGhBSklXa1UwLTA?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-495ca1e34d72b6",
       "type": "event",
       "category": [
         "正在爆"
       ],
       "hot": 94,
       "create": 92,
-      "time": 200,
+      "time": 191,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 12:18",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "大众",
-        "奥迪"
-      ],
-      "models": [
-        "A4"
-      ],
-      "title": "受大众集团财务困境影响，奥迪A4纯电版延期推出",
-      "summary": "汽车之家于11月16日 12:18发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 12:18",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 12:18",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JcTQtV01OUU9uaGJYVmtKckgwRGhlT2JzQTdmanVTMTN6MGViLU1MWDFPWV8zV0JPeVZrVmRMbDJLMk9GQ2NubUxUWU1aNDY4a1ZURGhSSHhkVnJjc0FEenF5d09LNnh1dVhr?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-2d99778d8ed2e2",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "智能驾驶",
-        "补能与续航"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 206,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 12:12",
+      "eventDate": "11月17日 13:36",
       "status": "公开新闻源已采集",
       "brands": [
         "汽车行业"
       ],
       "models": [],
-      "title": "经常跑高速怎么选纯电SUV：续航动力与辅助驾驶梳理",
-      "summary": "汽车之家于11月16日 12:12发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "title": "纯电四成五、插混四成二，卖电车先对表",
+      "summary": "汽车之家于11月17日 13:36发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 汽车之家",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：汽车之家",
-        "发布时间：11月16日 12:12",
+        "发布时间：11月17日 13:36",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -1450,15 +1349,299 @@
       "sources": [
         {
           "name": "汽车之家",
-          "publishedAt": "11月16日 12:12",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RcVg0Z3dGbHBqeVhKZFVtR2ZnYTc0Z3FoOXBvRGJBRjhUQ3FJcG9JdFFJTjNPckRLS2VkMmcwanprcExaTllxRmdUMmdSbGFKejlWM0ZvNlVRRmc?oc=5"
+          "publishedAt": "11月17日 13:36",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14LUFjQWJzUmhoazBxdThUajQzM1pYZmJUSlNobDFiME1DRW5IOG1jQWV5MkxjYjhjQktDUmx1MlNKUFN1RUd1bnQ3NWJ2QXpoSUVYSVV4RXVNSXhpQUxaaU4wWU50bWFMZGh3?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-e04328cbc6ca6c",
+      "id": "news-2b8e5d29226f18",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报",
+        "行业数据"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 202,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 13:26",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "小鹏"
+      ],
+      "models": [],
+      "title": "新车上市效应显现 小鹏三季度交付和营收双增",
+      "summary": "财新于11月17日 13:26发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 财新",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：财新",
+        "发布时间：11月17日 13:26",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "财新",
+          "publishedAt": "11月17日 13:26",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjRXRVOWdFTy1fc1VFdXZ1RnpOUkYtRlQ0YmhYZTMwMHBZenNIOTV3eHprNWlwRmg5SmJCb3V5OWxMMm1KSTc0VC1PdHdBSUNnbTc1dG82b0ZBd0pGY2o3MGpBUHk?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-8ab53e5d4ca5ce",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 204,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 13:23",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "一汽",
+        "大众"
+      ],
+      "models": [
+        "L5"
+      ],
+      "title": "一汽-大众ID.AURA L5配置曝光值不值得等",
+      "summary": "汽车之家于11月17日 13:23发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 13:23",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 13:23",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VRTRfYzg4NmtpbUxXUG5zTE1zX0VvNzVBdmhsTHRzS1g4b25fMVV3d1dvTTBOeEdxZS0td1BacEtuR1Z5Y2J6eXJzN0k0d0tneTBPRFVqeThrYXc?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-9e55a2521ae11c",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 211,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 13:17",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "霸榜热搜，新能源车企为何抢着「自我表达」？",
+      "summary": "投资界于11月17日 13:17发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 投资界",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：投资界",
+        "发布时间：11月17日 13:17",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "投资界",
+          "publishedAt": "11月17日 13:17",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80Q1RJMzRkZ1J4cjdmcmtZOTVqUmpKaDhWdXhqQ0Ffb3p1aFVxOWFQLVN3Tm0tSHFyYTRsV2ZtM3Z2VDhGVWdKRk0yN25RSHdGYVBFdE9B?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-b8870dfcc17408",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报",
+        "补能与续航"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 214,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 13:13",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [
+        "S5"
+      ],
+      "title": "续航750km配NOA 极狐阿尔法S5上市11.58万起",
+      "summary": "车家号于11月17日 13:13发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 13:13",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 13:13",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Mmd2RnNSWVV2bjhvOWNfalQ3NF9jUlVac2d6QlZLWHk4NEFOZzZpWF9udmhnOVhXMm11YVhIeVpuQVZadHFoSVJHWnU1TGxvT2FKakh0MDVqZlE?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-ead1573dcad1e4",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "车辆安全",
+        "补能与续航"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 219,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 13:08",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "理想"
+      ],
+      "models": [],
+      "title": "“4000元赔偿为假”， 理想汽车辟谣动力电池召回",
+      "summary": "盖世汽车于11月17日 13:08发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 盖世汽车",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：盖世汽车",
+        "发布时间：11月17日 13:08",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "盖世汽车",
+          "publishedAt": "11月17日 13:08",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kelIya1VYUkhjbEZUN05HYnNKRS16VElhek5WaWdWbXM4UUltMEQyNl9WMFlxZkpBaXMxa0s2S0R5cVh3N1lSaDNkemZKNFVZ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-72367c12793fec",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 246,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 12:41",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "多家车企被点名查账！",
+      "summary": "新浪财经_金融信息服务商于11月17日 12:41发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 新浪财经_金融信息服务商",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：新浪财经_金融信息服务商",
+        "发布时间：11月17日 12:41",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "新浪财经_金融信息服务商",
+          "publishedAt": "11月17日 12:41",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZdGw3aGdDUDU0QVktc2dmWE1CMTc4Z2pBWEZmSWdFNEhnRmJKY0tGaVlEUFhzaHdGTzFSeDUxMDBwRElmei1rcXBObEdpUkNiR09Tdy13ZTRUUUxNRGhrV2Zqc19CT0YwUFNKNzNzbTBzUQ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-c15a99380969a4",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 250,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 12:38",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "工信部委托行业协会评估 车企故意拉长账期将被约谈",
+      "summary": "财新于11月17日 12:38发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 财新",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：财新",
+        "发布时间：11月17日 12:38",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "财新",
+          "publishedAt": "11月17日 12:38",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4dkEzaGtiSV9zZGJHS1lscVNTcEZsaFRMX3RKS2hhd3Q0aGw5a3REbXc0VjNacVdPbER3a1FWbUdhYWlzbzdiRVFGRFFuVzF6OEZSalBscmMwYmJRb2pnRksyNE0?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-470142f71c9df5",
       "type": "event",
       "category": [
         "正在爆",
@@ -1466,23 +1649,21 @@
       ],
       "hot": 94,
       "create": 92,
-      "time": 212,
+      "time": 254,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 12:05",
+      "eventDate": "11月17日 12:33",
       "status": "公开新闻源已采集",
       "brands": [
-        "宝马"
+        "吉利"
       ],
-      "models": [
-        "iX3"
-      ],
-      "title": "宝马沈阳基地投产新世代BMW iX3，本月开启交付",
-      "summary": "汽车之家于11月16日 12:05发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "models": [],
+      "title": "金九银十行业不旺，但吉利10月销量为何年内首破30万辆？",
+      "summary": "汽车之家于11月17日 12:33发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 汽车之家",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：汽车之家",
-        "发布时间：11月16日 12:05",
+        "发布时间：11月17日 12:33",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -1492,40 +1673,38 @@
       "sources": [
         {
           "name": "汽车之家",
-          "publishedAt": "11月16日 12:05",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EZEx2WGdSRU1GZXgxSUxmanpEUDh5NjBGb3BSMVl3WFd5S0pDRlRHSjZ2MjFXX183LWlBLXBKR3lmQl9VWUJWMU5wTjBOZEVvYzRBb3BoMllLY2M?oc=5"
+          "publishedAt": "11月17日 12:33",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJbFR2OG5xUW0zMjNNOGJiRjdNOFJ5NFEzcjFkbXFGYm1WYTNrbFVtMWxaRzRuVW1MVUhIM1g5U2RsRUVzUUFvd2pza0diVnZkRE82MDN4MjlRbzA?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-ed4800486f8817",
+      "id": "news-469b09bf695b2f",
       "type": "event",
       "category": [
-        "正在爆",
-        "新车情报"
+        "正在爆"
       ],
       "hot": 94,
       "create": 92,
-      "time": 218,
+      "time": 259,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 12:00",
+      "eventDate": "11月17日 12:28",
       "status": "公开新闻源已采集",
       "brands": [
-        "吉利",
-        "银河"
+        "埃安"
       ],
       "models": [
-        "M8"
+        "Plus 202"
       ],
-      "title": "近期完成亮相/轴距为3030mm 吉利银河M8预告图_新车上市",
-      "summary": "中金在线于11月16日 12:00发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 中金在线",
+      "title": "AION S Plus 2026款怎么选？3个维度说透9.98万起的埃安纯电轿车+FAQ",
+      "summary": "新浪网于11月17日 12:28发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：中金在线",
-        "发布时间：11月16日 12:00",
+        "来源：新浪网",
+        "发布时间：11月17日 12:28",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -1534,16 +1713,16 @@
       ],
       "sources": [
         {
-          "name": "中金在线",
-          "publishedAt": "11月16日 12:00",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92SGpoLVhzVjlaQWh5M2x0ZDA0Q2syN3JFaXhOUGk5dWJRUjVJVlNKa2c5eEJ4NS1URnh0eXBHVjZoU1dsbHduLUMtdnZNU1BJWFVaamRCQUhCRklUNFduam83TE1Od0s1bU1scg?oc=5"
+          "name": "新浪网",
+          "publishedAt": "11月17日 12:28",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81SGxJRkllQVpqNG44VXhuM2hLeE9ZejFjeGJhTVk2WXd2SDQzTFhkVkMxNWtwTGRkWl9CUEZIQ01YUnFyRUNfTDRWQ1lSZkl5OEpUX0pHX2F4MWVEanFF?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-9b9315990eeff0",
+      "id": "news-9b8429e817d9c1",
       "type": "event",
       "category": [
         "正在爆",
@@ -1551,23 +1730,62 @@
       ],
       "hot": 94,
       "create": 92,
-      "time": 218,
+      "time": 260,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 12:00",
+      "eventDate": "11月17日 12:27",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "问界"
+      ],
+      "models": [
+        "问界M8"
+      ],
+      "title": "升级800V高压平台，新款问界M8正式上市，售价37.98万起",
+      "summary": "车家号于11月17日 12:27发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 12:27",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 12:27",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qeTFqZG1vdElmNWxpN2Q1V1VKRXlmV19kX0szZzlpLUx2ZEFhQ3J6RVVFcklFV1l0Mm1md3pfYmY4aVgtT0FHM0ZSU3Q1SVpPOUtXdkk3YXlzTkk?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-4b5e085841278f",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 263,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 12:24",
       "status": "公开新闻源已采集",
       "brands": [
         "汽车行业"
       ],
-      "models": [
-        "Z7"
-      ],
-      "title": "外观焕新尚界Z7T星野套装实车曝光新车已到店将于11月20日上市_新车上市",
-      "summary": "中金在线于11月16日 12:00发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 中金在线",
+      "models": [],
+      "title": "中汽协每年评估17家车企供应商账期",
+      "summary": "汽车之家于11月17日 12:24发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：中金在线",
-        "发布时间：11月16日 12:00",
+        "来源：汽车之家",
+        "发布时间：11月17日 12:24",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -1576,41 +1794,161 @@
       ],
       "sources": [
         {
-          "name": "中金在线",
-          "publishedAt": "11月16日 12:00",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91RFd4emI0eVNJdDR2QjdjOVVBdnNReVdCekJibjY2WmxLVWsyZHgzQ2IxdWRyTTF4VGJPNlVXY1Z6eFgtbkRQcmU1cUs5NE9tT0QtZG9aNnhMUGRwcWdyTmVDR1ppT0tPb3o0Zg?oc=5"
+          "name": "汽车之家",
+          "publishedAt": "11月17日 12:24",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LSF9CZXRfZFRneHZYQ3pQNm1VdURLRXB5X2hZaHZEX1VlcU1kSnhqV2dMQnBzTXhpUzN0cFgtVGFKMmsyNWFIRDZRbF83b3VURzJLczBSanB6UDQ?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-5faf0254f5a8c7",
+      "id": "news-91a0eef63361cb",
       "type": "event",
       "category": [
         "正在爆",
-        "新车情报",
+        "新车情报"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 267,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 12:20",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "捷途"
+      ],
+      "models": [],
+      "title": "【视频】捷途首款纯电方盒子，环游者EV预售价9.99万起",
+      "summary": "汽车之家于11月17日 12:20发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 12:20",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 12:20",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wVkJGVEFsZFJBemlGV1k5VGs1dnBWMHJTRDdSelVLakZrVE84VHhELTJNeFRnXzBoR0tZcVd4M1BrZDFwdXJnZGhBTHhpTGhCVDd3eUFpR095V2s?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-bba80c08513bb1",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "行业数据"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 269,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 12:18",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "车市一片哀嚎，这家合资车企销量却逆势增长，它做对了什么？",
+      "summary": "汽车之家于11月17日 12:18发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 12:18",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 12:18",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SWDV4dEp2bU0yT2NBOTJ0dTRlUU9ETV9tajFSS2Q1LThFZTJIdVlfRGMxTGF6SVUtbUJhaEZzelo1SGxiZ0toVVRYemZaXzR2WUZRU25jbzdTTzA?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-51fa8da7b31cd8",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 279,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 12:09",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "小螺号｜账期治理升格为“年考”，17家车企不能只是承诺了",
+      "summary": "新京报于11月17日 12:09发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 新京报",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：新京报",
+        "发布时间：11月17日 12:09",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "新京报",
+          "publishedAt": "11月17日 12:09",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90WS1oX0U0NU5rQWxJNUNUWTdETGkyV3pIS1FnT2V5RGJkLU96WElCVUc2ZWRsMWlXM042RTlhaGZwbFZab294Mjl3dkhPbnJ4bWdIRzhqOU1FMlprR1gxVzhJUWs?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-4545d9421fd4f8",
+      "type": "event",
+      "category": [
+        "正在爆",
         "补能与续航"
       ],
       "hot": 94,
       "create": 92,
-      "time": 218,
+      "time": 287,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 12:00",
+      "eventDate": "11月17日 12:00",
       "status": "公开新闻源已采集",
       "brands": [
+        "享界",
         "宝马"
       ],
       "models": [
-        "iX3"
+        "i3",
+        "V8"
       ],
-      "title": "全新宝马iX3在沈阳正式投产CLTC最大续航919km 将于11月25日上市_新车上市",
-      "summary": "中金在线于11月16日 12:00发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 中金在线",
+      "title": "宝马i3续航912km，享界V8综合1465km",
+      "summary": "汽车之家于11月17日 12:00发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：中金在线",
-        "发布时间：11月16日 12:00",
+        "来源：汽车之家",
+        "发布时间：11月17日 12:00",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -1619,502 +1957,117 @@
       ],
       "sources": [
         {
-          "name": "中金在线",
-          "publishedAt": "11月16日 12:00",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qdmpvQ2VPSE9ZbnZvZnE2TTk4Y1l5bDRlNnRNclVERnptTGY4dTh6aGRXeVFhOTZVTGlWeGxQd3NYSzJmdXBoLS1LYWJPUHBzWm1JcmJwOHBsTkpWcFdxX3M5RC1iWmszSGVkLQ?oc=5"
+          "name": "汽车之家",
+          "publishedAt": "11月17日 12:00",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2b3psVTYzNjRXYnI4ajJhbV9CdVc5eEpCUXhtenp4NFVtcy1Vd3FQVTN2WEJKX3dVRERDSlFZUzZpUGxkUFBPNGZKWWJzNElfS2RlZEFzaTU1UlE?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-e8276e2273f02e",
+      "id": "news-e4a33f779517cc",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "行业数据"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 297,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 11:50",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "阿维塔"
+      ],
+      "models": [],
+      "title": "2026年1-6月，阿维塔销量27619台",
+      "summary": "车家号于11月17日 11:50发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 11:50",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 11:50",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9McjNJN000eXNubEtsb1FyY3psOE84dWc5TGt1SlRiaEctU21QNkFnRHpYUkxVVEVrdmhOYV90UjJoT3lnckY5eGt5VGpuNndVcS11LThjcHdJSUU?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-64b2f87f469a78",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 94,
+      "create": 92,
+      "time": 304,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 11:44",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "做了100多个智能座舱项目后，博世断言：汽车不会成为“第三空间”",
+      "summary": "电子工程专辑EE Times China于11月17日 11:44发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 电子工程专辑EE Times China",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：电子工程专辑EE Times China",
+        "发布时间：11月17日 11:44",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "电子工程专辑EE Times China",
+          "publishedAt": "11月17日 11:44",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uMTFQbndyb0N0bkpGbVMyWWxOakd2MVBsQkZNY1hRcUVqcVRhVkc3U0F0cXBnSDN2UFVvcTFIUVRoeG9jS0pEeXc5TGpUNEpSSXZV?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-64afcf4e0f676f",
       "type": "event",
       "category": [
         "正在爆",
         "车辆安全"
       ],
-      "hot": 94,
-      "create": 92,
-      "time": 220,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 11:58",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "宝马",
-        "奔驰",
-        "丰田",
-        "福特"
-      ],
-      "models": [],
-      "title": "黑J车主速自查！超1.3万辆汽车将被召回，涉及宝马、奔驰、丰田、福特……",
-      "summary": "新浪财经于11月16日 11:58发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪财经",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪财经",
-        "发布时间：11月16日 11:58",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪财经",
-          "publishedAt": "11月16日 11:58",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaDdybFF4QktBSjZZX0NlYktjRmxZeFRIOHc1bktpZWpBcEstUHJxTEJxc1AxanpJSGIxa0lRNC05Z3BEY3dMd1haWmM1NEl5RG9jS1lhYnUtMkJRZjFLcXh6dlJwUzhuUWZOR2VTaV9JQ2VuVTRXRzcteFBWeFV3d2VPcll1RWFTN3JlR0VSdGhadU9EM0kyYw?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-6cb6a842e41349",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "智能驾驶"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 230,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 11:48",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "理想"
-      ],
-      "models": [
-        "OTA 8"
-      ],
-      "title": "理想汽车OTA 8.7 版本更新，智能辅助驾驶行车泊车体验升级，任务大师丰富个性化用车体验",
-      "summary": "三湘都市报于11月16日 11:48发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 三湘都市报",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：三湘都市报",
-        "发布时间：11月16日 11:48",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "三湘都市报",
-          "publishedAt": "11月16日 11:48",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hSmkzOVIwaVVtXzR4NlVvYzN4d2pDaXlYTHJ4WHdoamh0MmxGRU1xSVlmX244SnM4d0U2RTlFVE9yenVtRnZwdlA1NThsYmJlc0JV?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-e173e167f617b2",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 240,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 11:38",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "新车扎堆上市！实话盘点",
-      "summary": "汽车之家于11月16日 11:38发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 11:38",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 11:38",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMTZ2dlZSeHNsYkFEVkhRUjF6b0ZxV2JsVndDeFhSMTZrZlBtMkxzV1pkb0IyXzcyWTV6ZEJEMTQxczJRZHJuZnpRSEo0SmZJZUdOVEU2TS1Ma2c?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-ffa5e252d47097",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "智能驾驶",
-        "车辆安全",
-        "补能与续航"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 264,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 11:13",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "小鹏",
-        "问界"
-      ],
-      "models": [
-        "X9",
-        "问界M7"
-      ],
-      "title": "30万级六座家用车怎么挑？奕境X9、问界M7、小鹏GX三车横评：空间/续航/智驾/安全/价格五维拆解+FAQ",
-      "summary": "新浪网于11月16日 11:13发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 11:13",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 11:13",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rZFhQSng5cjg0eENRcXZnOHo5cl84QkM5Zmc1Umw1TW54ZVR5b2ZQVkdQejkyLWRBU1dwVkc0MU5oWFlTc0V1b3Q2TjRGYnRMZ1BKSUJLX2xfSUpyNW1N?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-9646b635e319f5",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 271,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 11:07",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "方程豹"
-      ],
-      "models": [],
-      "title": "准备买车的别急 11月19日-20日 4款新车上市 方程豹钛9领衔",
-      "summary": "汽车之家于11月16日 11:07发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 11:07",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 11:07",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LSENsX0gzODJKQTl1VnBvbzBFWGRpbzlNdW5pdlJKWlkzU3dJYlNOejhYWXVJR3kwcGRKTDhvRWg2NWd5NHdKcG8taUZ3UXIyVXBYS3BpTlRmaHFLMTBEdTJVTTZ1aE94LU9j?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-e1661280e05471",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 285,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 10:53",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "理想",
-        "问界"
-      ],
-      "models": [
-        "问界M7",
-        "L6"
-      ],
-      "title": "五秒破百带娃出行，问界M7四驱vs理想L6座舱体验差在哪？",
-      "summary": "汽车之家于11月16日 10:53发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 10:53",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 10:53",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oaVYzZ19WMUdnRFpYVGpMRGVxYm9tdDVuOWUwazMxRG5Bb2ZfUmQ1eHI0SWZFUVRjZHNNUHBpU1RYWWYxTnNwS0VNdWVIQkVlZl9ySHZ1NDJwZw?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-2dd31f00907402",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 294,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 10:44",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "奥迪"
-      ],
-      "models": [
-        "A4"
-      ],
-      "title": "奥迪电动A4也推迟……SSP量产车至今一辆都没有 “原因探究”",
-      "summary": "스타뉴스于11月16日 10:44发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 스타뉴스",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：스타뉴스",
-        "发布时间：11月16日 10:44",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "스타뉴스",
-          "publishedAt": "11月16日 10:44",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQkhnRzRuNHNLRUZRLVJVbllCRERGSUR3STViSXpsdVZheXExRXFKeUdTYjFta1VCVUZ2VlI1Smo3MVBPRXU5UFY0YWJtNndGQ2Q0dnF6UEtxZVp5bzhPTzVpQm5KWWp0MDZhLTd3YktfWXJuWTBCTm9wcXcxdUVXbno3cw?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-0aef0645c7e2b7",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "车辆安全"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 306,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 10:32",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "奔驰"
-      ],
-      "models": [],
-      "title": "北京奔驰召回部分国产C级E级汽车前轴轴承存安全隐患",
-      "summary": "Sohu于11月16日 10:32发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · Sohu",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：Sohu",
-        "发布时间：11月16日 10:32",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "Sohu",
-          "publishedAt": "11月16日 10:32",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVkRZOW15aGQxVm5qSmxPd29sMUZwR0FJbWZWVUtYbV9Rel9ZenRiSWRpRmh5SUxHUjFtUXJxa29ISi1SOGJZYnl5VDRrak1uOW9nOXliZ3E2X0F3c2thd3loQkp1cUE2QzF5OEQ5ZG9fZ25jWHRlcy1aLVNHZmptOHNMSVYtR1gxNjF0Zg?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-d8b129dd42ff40",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 324,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 10:14",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "奔驰"
-      ],
-      "models": [],
-      "title": "奔驰VLE巴黎车展首秀遭小孩误启撞墙",
-      "summary": "汽车之家于11月16日 10:14发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 10:14",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 10:14",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42ak00V29rbjVzeUhuUkRodGNvNWlxODlCVUxjcmZ2Wjh3SWYzZUMwajNRSElKcDhIc3N3d2x6Q0s3Y2szVVNRYlFfRzQ1RWliMnkwc19CUTdtQ090SUE?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-17350e3fbb9df5",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 333,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 10:05",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [
-        "海豹07充电快得没得黑"
-      ],
-      "title": "【视频】插混纯电续航300多公里？海豹07充电快得没得黑",
-      "summary": "汽车之家于11月16日 10:05发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 10:05",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 10:05",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QZVY4dFVmOFZNcmtjS1lVT1hMUDE2c05KT1c2SWNNZEh4U2IxVVZUZmRDdUhhOU94NVB5cTJ0NEZZdjVoUk1udzduaVpDem1ZelRyTUVaaEc0YnlCQXdyYnMzdThQNWdGd0xV?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-ff3435c6c148ce",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 94,
-      "create": 92,
-      "time": 337,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 10:01",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "理想",
-        "小鹏",
-        "问界",
-        "智界"
-      ],
-      "models": [
-        "小鹏G9L",
-        "理想L6",
-        "R7",
-        "问界M7"
-      ],
-      "title": "25万级新上市大五座怎么选：小鹏G9L对比理想L6、智界R7、问界M7横评",
-      "summary": "新浪网于11月16日 10:01发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 10:01",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 10:01",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fSFNtcjk1SFl4X184bXhuelNKU0tqLWtkLUlocnY2Sm5Ic281bGJpcUhOLVdPX1JKbFM2dFFRTEtPRGJxaVVmeTdHTTJjc1lHNnZOQmhNM3E5c29fNFBJ?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-268538057fe2c9",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
       "hot": 93,
       "create": 91,
-      "time": 338,
+      "time": 304,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 09:59",
+      "eventDate": "11月17日 11:44",
       "status": "公开新闻源已采集",
       "brands": [
-        "汽车行业"
+        "小米汽车"
       ],
       "models": [],
-      "title": "北方冬天买纯电SUV，哪款续航打折少",
-      "summary": "汽车之家于11月16日 09:59发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
+      "title": "小米汽车回应“召回”诈骗短信：召回事项不存在，不会通过短信链接索要个人信息",
+      "summary": "凤凰网于11月17日 11:44发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 凤凰网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 09:59",
+        "来源：凤凰网",
+        "发布时间：11月17日 11:44",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -2123,94 +2076,16 @@
       ],
       "sources": [
         {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 09:59",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JcDlqWjVpczhYOUxORkxuV3RIbnBGVWxqOW1sbm9aVjNFaFFRWGRVcWVoTDhBU013eTBDNWRneGxmZ3lNdkg5djhMeXZPU18xTWdad1I2YUQyNTRKZzlwWUNsb3lYS1ZaTjdz?oc=5"
+          "name": "凤凰网",
+          "publishedAt": "11月17日 11:44",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05OEp2T05tMUNiSmxWMzhMM0lTOEZLSTRuVUFVLXpPRFRsZV9PTjRKal9qQzVDeDBBdTJZa2dlN0Z6elNKc0ZRRjFhVUJGRVlFSlE?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-887d46118a8da5",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 93,
-      "create": 91,
-      "time": 344,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:54",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "15万左右买什么纯电SUV比较好？热门品牌推荐与选购建议",
-      "summary": "汽车之家于11月16日 09:54发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 09:54",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 09:54",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwZy1vU2cwMWVMMFJDRWUwXzE5eXM1Z3ZlUUlJSDFIdEotNXJVdTlIQTl5REpMbktwSTBqall3ZEo0dWpBMVhjdkhvVzlsSDlQZFJ4akt2c1BCVWM?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-5d4739745b38a2",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 93,
-      "create": 91,
-      "time": 347,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:51",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "蔚来"
-      ],
-      "models": [],
-      "title": "安闻科技市占率全球第四盈利骤降28% 小米蔚来精准入股张氏家族套现3.28亿",
-      "summary": "凤凰网财经于11月16日 09:51发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 凤凰网财经",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：凤凰网财经",
-        "发布时间：11月16日 09:51",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "凤凰网财经",
-          "publishedAt": "11月16日 09:51",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QTHBiaTJDczBSQjBseWlQRDk2MXJvRGtQekgwZmU1ZHJsd3Q1Ty0xeFBoRVEwZkNSbHVZOU8yd19oeTdDbjFmRTI1V1hLQWFj?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-cc4ad71b9cb2c9",
+      "id": "news-8e54ddacb83ed6",
       "type": "event",
       "category": [
         "正在爆",
@@ -2218,523 +2093,24 @@
       ],
       "hot": 93,
       "create": 91,
-      "time": 351,
+      "time": 305,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 09:47",
+      "eventDate": "11月17日 11:42",
       "status": "公开新闻源已采集",
       "brands": [
-        "理想",
-        "小鹏",
-        "智界"
-      ],
-      "models": [
-        "小鹏G9L",
-        "理想L6",
-        "R7"
-      ],
-      "title": "23.18万起的小鹏G9L入列，最近上市的新能源SUV横评：理想L6、智界R7怎么选",
-      "summary": "新浪网于11月16日 09:47发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 09:47",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 09:47",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90Vkxha3RSajRCcVdmdWY1ZktfR084a1d5QUtrbDRVNmEwWTlnZVVub2tRSEZuUjlpbmUyb2k1TVFzd0o5aW5DMkc5ZVNXVWx3cmFPYkUtTWtTOWNhRUtz?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-88ca8b3747682c",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 93,
-      "create": 91,
-      "time": 352,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:46",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "充电比加油还快了！各大车企猛卷闪充：5分钟补能几百公里",
-      "summary": "驱动之家于11月16日 09:46发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 驱动之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：驱动之家",
-        "发布时间：11月16日 09:46",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "驱动之家",
-          "publishedAt": "11月16日 09:46",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnd0hHRjMtd3dZZUtFbWloVmp1Vy1MbGUtSTFPZ2JPcFZ4empDR1NZd1ZwZGpQTkt4c2lWcS1tTm41ZWlFTzZhZHNxcWhFOG9sTkZYdUZXRDI?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-43d29b7a615bdf",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 93,
-      "create": 91,
-      "time": 355,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:43",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "长续航轻客推荐：跑城配、跑城际，怎么选一台少充电的车",
-      "summary": "汽车之家于11月16日 09:43发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 09:43",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 09:43",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0dHN6X0sxWVpzYXlSODhaaWJTMGhobmR4Ni0xcTlTMGdtc19JeHBOMVQ5blIxZFBfMEJqaG5VcnlWVnhmc2FFcUIzcmM5dmxZQm9RZVp6NEc1bk0?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-91ee2cb2ace40c",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 93,
-      "create": 91,
-      "time": 359,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:39",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "极氪",
-        "理想",
-        "小鹏",
-        "智界"
-      ],
-      "models": [
-        "小鹏G9L",
-        "理想L6",
-        "R7"
-      ],
-      "title": "25万级大五座新能源SUV上新盘点：小鹏G9L对比理想L6、智界R7、极氪7X",
-      "summary": "新浪网于11月16日 09:39发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 09:39",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 09:39",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11akVsbXZkazNqbG9CN1JvQW9DemdPUW1FandxSFJ5NVNDRWRNTXIybVlxcFdOU2kzanhwblhSSk5TbUlmUGxYejI4SEd2RF9FRFNSYkJhRHJZMlBjcEc0?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-66010009c7560c",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 362,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:35",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [
-        "ERA 5"
-      ],
-      "title": "9.99万起上市，ID. ERA 5X能否凭“保值壁垒”压轴？",
-      "summary": "Sohu于11月16日 09:35发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · Sohu",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：Sohu",
-        "发布时间：11月16日 09:35",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "Sohu",
-          "publishedAt": "11月16日 09:35",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTC11Tjk4bEo0a2FlRHdiOGVPVkcyZmpFUUVMRXo4SGpaQ3dkOWVJang3QVp4blpzMGhtM19yc0wtVUo2ajFUdTVMNXRPSlZUdkN4ZnRvcmpBUTRvdWRYZXJ5NG1jemswWGNiSDFFNHh6VnB3TXd1Ti05WUxhRk5aZ3hvSXVrbjBiYTQ5cw?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-9f8e7dbe5e275b",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 369,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:29",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "星光730EV纯电版续航到底够不够用？500km标称+冬季实测一次说清+FAQ",
-      "summary": "新浪网于11月16日 09:29发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 09:29",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 09:29",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EeGwyeTZoejlycEM3RHFrekxaclZ2WkRUbkJFSmNMMDdOWkxMX0NjaTFNaS1uRGZQZW1vNnRodHFscGdJUUVYSDR6VHllSkFWOWNSTi1OY0QwRUVnVy1N?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-3e9822c11d921a",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 371,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:27",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "大众"
-      ],
-      "models": [
-        "M6"
-      ],
-      "title": "大众捷达M6充电到底快不快？3个维度说透快充/慢充/无线充+FAQ",
-      "summary": "新浪网于11月16日 09:27发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 09:27",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 09:27",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzZEdyc1VkanF0MEQ5WEhaV29PSGp1d0hMT2hncC1PUkhtWjNfbWRScTZJMGlfeUJqZU1FdEx4X0RoWjhhZWVUdUI0QUMwa2lMYWwzWV9wXzNEdFdNcl9Z?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-8af24348d9e64d",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 387,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 09:11",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "11.16-11.20将要上市的8款新车，最便宜12万出头",
-      "summary": "汽车之家于11月16日 09:11发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 汽车之家",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：汽车之家",
-        "发布时间：11月16日 09:11",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "汽车之家",
-          "publishedAt": "11月16日 09:11",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tYldmUVVLOWFIcW0tWVFTcENJTmEtS1BKVVY3S2xNclhmWkJ2bDlXNXp0VDhYSng3UWdZQXBhS2xielpudnRTUVZlaEpXY0JTMk5ia053bzFKMDQ?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-29a197ea288c57",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 438,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 08:20",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "智己"
-      ],
-      "models": [
-        "LS6 Pro"
-      ],
-      "title": "智己LS6 Pro Max实测续航到底虚不虚？480公里全路况拆解+FAQ",
-      "summary": "新浪网于11月16日 08:20发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 08:20",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 08:20",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93em5LM1BNeW1UM05vdUlSYUJLZmtDZXYzZnd0MzdCdnZLX3VvOHM5OGctNFB0WjI1N3FZRE9VbHhvVzFkenNKUll0Tmh3Zy1XeXFCWWo3T2x6aHppd0hN?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-46dbcef62c2c11",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 450,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 08:08",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "林肯航海家混动版纯电续航到底多少？3个维度说清值不值+FAQ",
-      "summary": "手机新浪网于11月16日 08:08发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 手机新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：手机新浪网",
-        "发布时间：11月16日 08:08",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "手机新浪网",
-          "publishedAt": "11月16日 08:08",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSWGNTT2FvYkFwbWRQcVlyNzNiQ0phNjFFQ2NOdl9aTTdOc0ZBZVQtYWgxOGVUdkNWNkNxOWZaN3VRcWNlTTl6UmtRbjVhZWxGZExDMlRHZ1BkMkQ4TUp0S0lZREhEcmtubmRnTzRURk9ydw?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-6bcdd63ca0459f",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 467,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 07:51",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "前10个月数据折射我国汽车产业求“新”向“智”",
-      "summary": "中国科技网于11月16日 07:51发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 中国科技网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：中国科技网",
-        "发布时间：11月16日 07:51",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "中国科技网",
-          "publishedAt": "11月16日 07:51",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EWUdRdDl0enZiMWdUM1BxcnpZbFpaT3RwNjFrd0lGTjl3eUNIYmZaOFJJNXVBZm5ITU1ZbGV0ZUZWVng2N1dUaWZvUWQ5c2tKQXpRODJfWkF5TkwzX3FjZHZJS2tGWjRoUVp2S3AxR1I?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-a1ff9df91037df",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 482,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 07:36",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "小鹏"
-      ],
-      "models": [
-        "小鹏G9L"
-      ],
-      "title": "23.18万起的小鹏G9L入列，最近上市的新能源大五座SUV盘点",
-      "summary": "新浪网于11月16日 07:36发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 07:36",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 07:36",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLUDNUUm5ZOXMxODNia2lFV2t0cGlFSGV2UndaN3pnNGZKTlBINEFHVWF5TURaRmNNeTZaeEszdWN4aFRWTVRPRlY2WXJMd0tqZlVxZzJQYm95Z0FHRzB3?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-ac5ec915cfbd85",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报",
-        "补能与续航"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 496,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 07:22",
-      "status": "公开新闻源已采集",
-      "brands": [
+        "方程豹",
         "享界"
       ],
       "models": [
         "V8"
       ],
-      "title": "钛9综合续航1630km 享界V8纯电830km 本周还有哪些新车值得关注？",
-      "summary": "汽车之家于11月16日 07:22发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "title": "本周七款新车排期出炉：享界V8与方程豹钛9领衔上市",
+      "summary": "汽车之家于11月17日 11:42发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 汽车之家",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：汽车之家",
-        "发布时间：11月16日 07:22",
+        "发布时间：11月17日 11:42",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -2744,162 +2120,39 @@
       "sources": [
         {
           "name": "汽车之家",
-          "publishedAt": "11月16日 07:22",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yUnFpOHB1VDZrQ2sySWMxMDBRR1NydkRXd0g1TGRsWEJCMk5xeXpqMEU5RkJlTnF6Wlo3Q2RzV0FhYWdpbDBxR0tuR3B0RlU3c0wyU1lJZXBxSnc?oc=5"
+          "publishedAt": "11月17日 11:42",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sMk9JS0JkTFNYd1R3aGtBYkJXMUtfWXUydF9wZG85ZDBkN2xXQm50MS1LbUFzYmlzYUZ3ZGtwWjlTdjZCU1U0OWdQb3R1SnpUamhhbVNNN1lVVmc2akZjR0s3MEdRRnc5NFZz?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-e2936f19201ba3",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 502,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 07:16",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "车展四驱小型SUV哪款最适合城市通勤？3个维度说清+FAQ",
-      "summary": "新浪网于11月16日 07:16发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 07:16",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 07:16",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1N0VaZWdsYWtaLXZnYWV1QVp6OXU0dDBCR2JvTDVOMzRoaDZxakNyczB2TGt0cllybjgySXdvZXNMWVgyR1loNUN3Y2pkY1AzYy00blgwSDVPYVRyT0k4?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-155a685996a0a7",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 506,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 07:12",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "大众"
-      ],
-      "models": [],
-      "title": "车展大众帕萨特插混后驱是假的？家用选轿车还是SUV？3个维度说清+FAQ",
-      "summary": "新浪网于11月16日 07:12发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 07:12",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 07:12",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pTnk5d0lOTVNVMWNpYkNpYTMzdUxfb3ctOVZoQlZqb05tSlg0MFNvQXZJWmZDWjBYYkJDY25KSlRLTFkxZkpXWlNPVW9kUUpRU0pCSTAzVjNKV1ZqVzUw?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-eded4190f29b7f",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 506,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 07:12",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "蔚来",
-        "理想",
-        "小鹏",
-        "问界"
-      ],
-      "models": [
-        "小鹏G9L",
-        "理想L6",
-        "问界M7",
-        "ES6"
-      ],
-      "title": "长途大五座SUV横评：小鹏G9L、理想L6、问界M7与蔚来ES6怎么选",
-      "summary": "新浪网于11月16日 07:12发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 07:12",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 07:12",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EWnhnRVUtUFk3dXRDZWNOT2t2TkJZb2NITkZwejJsamgwa0NzTnhTWGFtR2JneTVlRFRUa3Fac09QT0NXeXBZTzdKdHpoX1JydnI0N29oQ0NnNmRodVBV?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-2670818917aceb",
+      "id": "news-410eb1603a4743",
       "type": "event",
       "category": [
         "正在爆",
         "新车情报"
       ],
-      "hot": 92,
-      "create": 90,
-      "time": 506,
+      "hot": 93,
+      "create": 91,
+      "time": 313,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 07:12",
+      "eventDate": "11月17日 11:34",
       "status": "公开新闻源已采集",
       "brands": [
-        "汽车行业"
+        "捷途"
       ],
-      "models": [],
-      "title": "10万内全时四驱中大型SUV哪款值得买？新车无解，二手车3条路线说清+FAQ",
-      "summary": "新浪网于11月16日 07:12发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
+      "models": [
+        "X70"
+      ],
+      "title": "售6.29万元起造型全面升级/搭载1.5T发动机全新捷途X70M上市_热点推荐",
+      "summary": "证券之星于11月17日 11:34发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 证券之星",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 07:12",
+        "来源：证券之星",
+        "发布时间：11月17日 11:34",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -2908,16 +2161,227 @@
       ],
       "sources": [
         {
-          "name": "新浪网",
-          "publishedAt": "11月16日 07:12",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yb0hFWXJSc0lic3JlRHMxVXlYVWZBYUtFcXJNenN5VjM4TGVvZ01LQnBPZUQxR0dZR1VDYUdIZnY0ODNJTF9wdjJTNHJRbkJzZmpVaGJ0OXE4bng4cGlj?oc=5"
+          "name": "证券之星",
+          "publishedAt": "11月17日 11:34",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HWlI1N2hidWtrWnFrQUtWa1JlR1FZT01sMFVOc1lsVFUyQ044MzVFdXpaVXpQVmJRa0U1RWtwQk9ndHU3b0dvVklpSlBtWV9NX2J1bW9WZFBDX2tyb3pzUQ?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-a2b0b02e19141f",
+      "id": "news-3957569f7704df",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 93,
+      "create": 91,
+      "time": 332,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 11:16",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [
+        "M817"
+      ],
+      "title": "售51.99万元猛士M817 Ultimate上市 “三把锁” 涉水深度900mm_热点推荐",
+      "summary": "证券之星于11月17日 11:16发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 证券之星",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：证券之星",
+        "发布时间：11月17日 11:16",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "证券之星",
+          "publishedAt": "11月17日 11:16",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwV2tka0VvYW4yeERYcEdKamlpQ3czMmQtY05mY1dOZThtQmNrSC1UczJveW96SllhdkZmV0tuc3ZYOE9OV2w5S2xRR0E1bFE1eEJtQzFacmdtX3hVM2xsXw?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-2e31a63a4faa72",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 93,
+      "create": 91,
+      "time": 333,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 11:14",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "奥迪",
+        "日产"
+      ],
+      "models": [
+        "汉",
+        "Q9",
+        "NX7",
+        "T10"
+      ],
+      "title": "2026广州车展新车前瞻 全新汉/奥迪Q9首发 日产NX7/212 T10上市",
+      "summary": "汽车之家于11月17日 11:14发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 11:14",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 11:14",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Qdy1GdEhqUncxMGlrZlhKNGpXbldGZEIwclZJU0E0cWxSd244QzdiRDZZbHdsR05oXzFuWm16MkVDbkl4VDVKMWZKQnlkemtwekhRNE9UeThUWGc?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-f7e02f08d21e88",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报",
+        "补能与续航"
+      ],
+      "hot": 93,
+      "create": 91,
+      "time": 333,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 11:14",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "别克"
+      ],
+      "models": [],
+      "title": "新款别克至境世家谍照换装2.0T插混系统纯电续航有望突破400km_新车上市",
+      "summary": "中金在线于11月17日 11:14发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 中金在线",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：中金在线",
+        "发布时间：11月17日 11:14",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "中金在线",
+          "publishedAt": "11月17日 11:14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZkQydG10Nkl3R0FLZ2ZsbmlYcEhFalNjS09OVFMxTG1ZTHJwaHRRaXhmRzdPWjZlMXBXUlFVaUxRU1I3T0JfMFFwaG9GY3lBZjF1ZkZmZHVQODk3RTJZTWtERkpmMjdIMU5ZQQ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-d66bb016a8c446",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 364,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 10:43",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "极氪",
+        "沃尔沃"
+      ],
+      "models": [
+        "XC70"
+      ],
+      "title": "接娃堵校门，极氪9X千升大空间 vs 沃尔沃XC70够用吗？",
+      "summary": "汽车之家于11月17日 10:43发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 10:43",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 10:43",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HQ1NuSVZyOHBaNjNkR2c2RG42eURJaDJfbk9vVDA1WVZZdnpEM2dScDFGZ21nZk1HdkMzd0gxdWZOcTJPM19WM1A2enNEMlFFWHlIeG4yblFrWWM?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-ca1783f896f3e5",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "车辆安全"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 392,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 10:15",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "斯巴鲁召回196494辆进口汽车 转向螺旋电缆存隐患",
+      "summary": "Sohu于11月17日 10:15发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · Sohu",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：Sohu",
+        "发布时间：11月17日 10:15",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "Sohu",
+          "publishedAt": "11月17日 10:15",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazI1NUdxWVNoRWU3RE5uUE5faHJLMW43aDRCb3pBemtrdGpobFFmWmFnTFYzcFNlcElFUzVSZ2NfeW9iMHhVQ0FJY3VId3RrOFJIV2pETmxTLXZJdFBmaHFvamNaUmpPcWp0TTlZYW1HYTRWNllHd1YxYmhOY3BBUlBFcm15cGpRMEdxdA?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-0471559144f9f9",
       "type": "event",
       "category": [
         "正在爆",
@@ -2925,23 +2389,1074 @@
       ],
       "hot": 92,
       "create": 90,
-      "time": 506,
+      "time": 394,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 07:12",
+      "eventDate": "11月17日 10:13",
       "status": "公开新闻源已采集",
       "brands": [
-        "小鹏"
+        "坦克"
       ],
       "models": [
-        "小鹏G9L"
+        "X8"
       ],
-      "title": "充电快的大五座SUV盘点，小鹏G9L 800V 5C超充入榜",
-      "summary": "新浪网于11月16日 07:12发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "title": "35万预算，每天通勤充电几次？泰山X8和坦克500插混差距多大",
+      "summary": "车家号于11月17日 10:13发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 10:13",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 10:13",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ONGJMa3ZTWl9nb2d1YWtEdlVsZ2tmbm5jemZUOTJUdUM5U0RiNjhGV0ZnUURHZHNGeVJRNTFfLUllenhLSmhXa1d4RVh6T3d5R0c1c0l1anVMamM?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-9418455981c1b1",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "补能与续航"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 400,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 10:07",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "比亚迪"
+      ],
+      "models": [
+        "SU7",
+        "Z7"
+      ],
+      "title": "续航超900km电车盘点：比亚迪大唐、小米SU7、尚界Z7等，共8款！",
+      "summary": "汽车之家于11月17日 10:07发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 10:07",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 10:07",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyTEt3QUxnalo5VTVCWlNNcjZJY1lubXRMbE02RlZpNmJKb3V3d1NnWnBDZ0cyUVVYaDZWbHRrTUpSZnBwbFNSemlmaF9peG1tMGsydjNqOHhyaU0?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-cb4804a81b54fb",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 412,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 09:55",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "上汽"
+      ],
+      "models": [],
+      "title": "朱晓华升任上汽集团创新研发总院副院长！是一位能力很强的女高管",
+      "summary": "车家号于11月17日 09:55发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 09:55",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 09:55",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IRHVpVVhjUF83dUJTMjNoUHc4UEs1a0xzRF8tcGh6RVBjb21STmRZcGdUeDJiUTc5VnhoMzh3M1UyMGh0eWUwblluODNqaWVhZUozbGRIeXU3aEE?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-b8ed420a8d8370",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 419,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 09:48",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "吉利",
+        "奇瑞",
+        "小鹏"
+      ],
+      "models": [],
+      "title": "奇瑞、吉利、小鹏等17家重点车企，将接受供应商账款支付调研评估",
+      "summary": "中华网财经于11月17日 09:48发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 中华网财经",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：中华网财经",
+        "发布时间：11月17日 09:48",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "中华网财经",
+          "publishedAt": "11月17日 09:48",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DTGZVUXBOU1lBYzh5XzJqTGY4THVJN0ZfdXozek1mM1VJMXlyZHBHXy1CMkFGbHJuVHJOclZ1dHZ2VWY1ZTdjTWtwcEFBekpQN19QUnJKY1BPWi1TQWRVdGVCeVdlV243NTZXSmhGY3NwZjA?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-30ebde65d4a12a",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 429,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 09:38",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "特斯拉"
+      ],
+      "models": [],
+      "title": "【图】躺着赚钱变成现实？仅售20万 特斯拉无人驾驶网约车开放个人购买",
+      "summary": "汽车之家于11月17日 09:38发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 09:38",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 09:38",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZOTNIM1dPc2dlN2FkcDhVbkYyalVyZ3B1QkltRmEtSnVBOTlCMF9KNjg4VjBJdWpKN2ZHM09pTHVwbnluTmplR055b3N4VjRBQmNPalpkNUR6VjlKVGVXVWdR?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-a2b49f6b178198",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "补能与续航"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 434,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 09:33",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [
+        "S5"
+      ],
+      "title": "750km超长续航+后驱+激光雷达 27款极狐阿尔法S5限时补贴价11.58万起",
+      "summary": "杭州网于11月17日 09:33发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 杭州网",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：杭州网",
+        "发布时间：11月17日 09:33",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "杭州网",
+          "publishedAt": "11月17日 09:33",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkUkJ3aEh5a3RrRTNiYmYyb0dxS2ZKSU5zMEZsb093VkVvZlhLZDVjR1c1OHVheTEtWG1DNHVEbHFLMml5OFFEM2ExSElxbzJrbEstcHJRYVRvaGRyOTNCWW44d3BYZ1Z4alZlR3FEV0dLWnM1MGRzaWItdTd2Zw?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-be964b5e031946",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 446,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 09:21",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "【图】中国汽车，算得上全球顶级吗？",
+      "summary": "汽车之家于11月17日 09:21发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 09:21",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 09:21",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kR09nMjVrZmNJbXRZazVaREl5b2JxU3NSejlhZzFWYW5xa1hhSnF2TG5QTGNmNWotRVk3azV4R1BNSzBtTWN4TDR5QVBza2FfRmJZaFJKX1hoZHhHcUxMYURB?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-30142618ffa6af",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "智能驾驶"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 462,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 09:05",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "吉利"
+      ],
+      "models": [],
+      "title": "吉利超级Eva降维门槛，解锁自然口语智驾体验",
+      "summary": "汽车之家于11月17日 09:05发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 09:05",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 09:05",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHcElHVnNoTGpfbWRqSUJMZjU1d1hrNWUxbzRQZjZqTUNkT1d4Z2NxdTN0S1B1NEJnTmV6RmhUdVEwSnpsU3VWa01NM2l4SVpQUlcxeEx3eHR1WDA?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-b53f8bdb1ad959",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 469,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:58",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "广州车展前瞻：这8款新车不容错过",
+      "summary": "手机新浪网于11月17日 08:58发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 手机新浪网",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：手机新浪网",
+        "发布时间：11月17日 08:58",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "手机新浪网",
+          "publishedAt": "11月17日 08:58",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83cWpoYnRGeUZrdDB4ZUtHeDI5dXc3TVJrcnVaaXFHNHVnbWJVQkV6UXNROVNQNlNwR0gwaTJMS0t0NUhDekJwU2RmdG5ISjFKMHRwYTBRQW1JNU8za1hUamkxeXBXMThURThXd3A2cThPUQ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-9ae26d6e9d496e",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 476,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:51",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "奔驰"
+      ],
+      "models": [
+        "iX3"
+      ],
+      "title": "捷豹路虎二财季营收涨20%/奔驰暂停德国本土投资/国产BMW iX3投产",
+      "summary": "车家号于11月17日 08:51发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 08:51",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 08:51",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1TkJxeDdIVlJsNFdJUEJNbktuSlI5eEFHaW1MWGxqN3V0T3kydnAyWlh5MUNKbWtkMDc0V2ducmFfRW8wc1Nud1pGbjF0NHA4MGlwSnFlWFBQNmc?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-62e755c868c9ec",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 485,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:42",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "日产"
+      ],
+      "models": [
+        "NX7"
+      ],
+      "title": "每日消息（共同社） - 日产汽车发布中国本土化研发生产的新车“NX7”",
+      "summary": "客观日本于11月17日 08:42发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 客观日本",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：客观日本",
+        "发布时间：11月17日 08:42",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "客观日本",
+          "publishedAt": "11月17日 08:42",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zWE1QRk5CYkVjQjhFUFJpWEZ5OXkxbG14c3YzaXFUZm9uWVJRVFlYTVdoc3NOZk5wWXVUaVdVQ19lUFB4Y1FsQWRkVU1xRW8yVWFhRnh3TGhsMUFfVXZ1QzZNQUhsRThaYnIteg?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-0af17acaf75d6a",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报",
+        "车辆安全"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 487,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:40",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "丰田"
+      ],
+      "models": [
+        "RAV4"
+      ],
+      "title": "丰田RAV4 PHEV发布召回！控制系统异常需更新软件！",
+      "summary": "车家号于11月17日 08:40发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 08:40",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 08:40",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xaFZCOWdVV2FQVGlVV3Q2dGhiMENUbS16SkY2Vlg0QWFjeWI5QW04OUV6VU5NXzB4dU9rbm1aR0tUdDJjblVQdXlJWDd2NEU4Ujg0Ri1kYmVaMUU?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-200acf29dc294b",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 495,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:32",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "沃尔沃"
+      ],
+      "models": [
+        "XC60"
+      ],
+      "title": "全新沃尔沃XC60，新车指导价39.69万，现在落地仅需20.69万！",
+      "summary": "汽车之家于11月17日 08:32发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 08:32",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 08:32",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TLXBJSGFYam1LN1dfMi1VTkhSWmxOR3pXS1FTbjZlREx3OGFXVlp5bF9SYVJyNnF4YmlqRm1oN0o2U2Uzd2ZyZ1FSeXVDRFhpdnlUZGU3bVBtRXM?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-9148921157e8cd",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 496,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:31",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "【图】限时权益价16.99万起 新款林肯Z上市 搭载27英寸4K高清巨幕",
+      "summary": "汽车之家于11月17日 08:31发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 08:31",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 08:31",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02VHllcFd3M1RMMGZHVjdCdl9ZY2tvWGV5dzFvUmFjYzBiUUx2MTE5My1MSExGeW8zTm9EWVhyRFFkSExCaWRIS1FKQTZkeVpEZDVDQm5rUzlwTVJWVEh0R29n?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-d72df264dba037",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报",
+        "行业数据"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 498,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:29",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "【视频】首周交付5000台！这款新车凭什么上市就卖爆？",
+      "summary": "车家号于11月17日 08:29发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 08:29",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 08:29",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43SzNvMUtoSVliekNST2diNXhydW1NcE5YREF0eTNrMXRhZkpuWDZ4MlBlMjhGdjlRQkttbFgtZVc1dklPdlN3YkhtYmlZeGMteVJNclRaOUUzS3M?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-1fcfe8aa8050ad",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 499,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:28",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "大众"
+      ],
+      "models": [],
+      "title": "寒冬来袭，大众中国寻到一团火",
+      "summary": "车家号于11月17日 08:28发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 08:28",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 08:28",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5STDVOT24wX0g4ak93akhVVDZuSy1uWlFUdUFKZDMtOG1ENWFJLUt1OUUydUNWZHZOczhpUmd6dkhzcXc4NjVuTDJXSzdjMTFnamtZdmVVazJaYWc?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-8b0ffec8145f5b",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 92,
+      "create": 90,
+      "time": 501,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:26",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "问界"
+      ],
+      "models": [
+        "M8"
+      ],
+      "title": "问界新M8大定破1.1万，赛力斯主导渠道",
+      "summary": "车家号于11月17日 08:26发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 08:26",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 08:26",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uUGJQOWI5TGVSMmtram5vRlAyNGx5RUJ3TTUwSG9aWVFtd0xOUzlPZGVSMU5NbUs3X2h2TUtWbElrcFFublpUZVdUdWRodm5rNHNOOVpLTDlCN2c?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-e346cd4a8d9bc0",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 91,
+      "create": 89,
+      "time": 503,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:24",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "方程豹"
+      ],
+      "models": [],
+      "title": "方程豹钛9定档11月19日上市 配30英寸全景巨幕屏",
+      "summary": "车家号于11月17日 08:24发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 08:24",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 08:24",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pQktCb1pUQXRTVU9QbjhFc0VIVDM4QkUzWlhIZU9DZFpucnFSb1hTNFpiMk1TT2pKUldVbkNLakRlMHBJTC1rcVZvN0JzTWloTXgwdHRjZGZsS1k?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-de56e8013b038e",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "补能与续航"
+      ],
+      "hot": 91,
+      "create": 89,
+      "time": 508,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:20",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "AION S魅580值得买吗？8.98万起505km续航，3个维度说清+FAQ",
+      "summary": "手机新浪网于11月17日 08:20发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 手机新浪网",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：手机新浪网",
+        "发布时间：11月17日 08:20",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "手机新浪网",
+          "publishedAt": "11月17日 08:20",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxY3BoaHlIaFRHX0RBMTQ2T1lGNk81MGt4VVp2aFY1VXNPbFNtOW9KbXlwSHZ6NnF1bnduYllLWVFmYzQ4dVRfX3lCandHUEoxeUg3czhYcE9UOVNRcThIbTYwVENsSkZCNy1sS1o0elB3QQ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-655635406a6c85",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 91,
+      "create": 89,
+      "time": 508,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:19",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "没家充桩别买插混，240kW快充下沉西北村",
+      "summary": "车家号于11月17日 08:19发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 车家号",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：车家号",
+        "发布时间：11月17日 08:19",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "车家号",
+          "publishedAt": "11月17日 08:19",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oS1g1Q3RYVWdFRUNNUjhFQkZJUUJZY1BnTGc3WkV0S2dlZkplN204Z1N1RXBrcnd1WkxxUloyLVNWZFVZeEdYNG5LM3J4bS13WjdEbDhiX1dZdFU?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-339dd43cbf7b40",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "补能与续航"
+      ],
+      "hot": 91,
+      "create": 89,
+      "time": 508,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:19",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "比亚迪"
+      ],
+      "models": [],
+      "title": "没家充桩别买插混，比亚迪闪充10分钟补能700km",
+      "summary": "汽车之家于11月17日 08:19发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 08:19",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 08:19",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBMnJYaFlkclo0ZW16Nkc2bE16SzI4MXZZbWxDVWdfMzRfU09ESFhCWDN4UHFTeV96cjlMaDBQeEJnbURnd1FRdGRCZmVubXJrMkpxU0t6UFBoMlpQSTEzeU9QbElVTnBWeEgw?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-23b4747e4e5979",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "新车情报"
+      ],
+      "hot": 91,
+      "create": 89,
+      "time": 523,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:04",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "限时6.99万起2027款瑞虎5x高能版上市舒适配置升级_新车上市",
+      "summary": "中金在线于11月17日 08:04发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 中金在线",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：中金在线",
+        "发布时间：11月17日 08:04",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "中金在线",
+          "publishedAt": "11月17日 08:04",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaOXZBdHRrd2hGWnlSM2k0dFM1a3NnSEwtM3dqaDA5cEU0aTRwb0h2RVJESGcxV2gxNVZ4X3k2SGc0ZC1vRjRlU3psc0NkX2hfbGVqY0JtOTNtQmdPZmRmdkR4LXRMMHJCV2pnZg?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-6d2c8001e19043",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 91,
+      "create": 89,
+      "time": 524,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 08:03",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "4年买了两辆新能源车，终于顿悟了：装不了家充桩，就该买纯电车",
+      "summary": "汽车之家于11月17日 08:03发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 08:03",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 08:03",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2ZmhHb2NIOFdRYzJvRjM3aGNaOHphRHM2WWZ3R3JuTGp5eGZnSW9MTFZ6UThEYUlVc204c2hGOTV3VGJwdVBzdW8yNl9DWWdKMVlBV1FlenFyalU?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-6c63cc7b974e9d",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 91,
+      "create": 89,
+      "time": 533,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 07:54",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "17家车企接受供应商账款评估，议价期间也要先付90% 意味着什么？",
+      "summary": "汽车之家于11月17日 07:54发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 汽车之家",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：汽车之家",
+        "发布时间：11月17日 07:54",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "汽车之家",
+          "publishedAt": "11月17日 07:54",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FcC1IUnlqYUVtaEt0dVlJZ2YyUnFoLW5SWXZNWjYwOVp5Szk3UEROajgyR29jUkhhQkdNWVdETldIbFc4X2Y5UDNWY1dlRmVfV25DSS1JZW96OUE?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-28c10a477022fd",
+      "type": "event",
+      "category": [
+        "正在爆"
+      ],
+      "hot": 90,
+      "create": 88,
+      "time": 545,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 07:42",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "特斯拉"
+      ],
+      "models": [],
+      "title": "特斯拉30亿欧元扩建Cybercab工厂 智能驾驶景气升温 多股获融资客逆势加仓(名单)",
+      "summary": "东方财富于11月17日 07:42发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 东方财富",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：东方财富",
+        "发布时间：11月17日 07:42",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "东方财富",
+          "publishedAt": "11月17日 07:42",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11TnNIWjNBclN4OGI5S1pFNDFmbzR5WkFhVl9BNHN4S1pjcXowQXBoUENHUFNFbVRCYXBGNnJkNmw5MFhrTXJCandIc0s0MXJHM1BFaDdtRFNrbjl2SHEzTzRtdXlfQQ?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-2beb89f869412f",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "行业数据"
+      ],
+      "hot": 90,
+      "create": 88,
+      "time": 598,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 06:49",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [],
+      "title": "10月新能源中型SUV销量榜 六款车型搭载地平线征程芯片",
+      "summary": "手机新浪网于11月17日 06:49发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 手机新浪网",
+      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
+      "points": [
+        "来源：手机新浪网",
+        "发布时间：11月17日 06:49",
+        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
+      ],
+      "angles": [
+        "从标题中的具体车型或事件切入，补充关键数字与背景",
+        "对照同级车型、同类政策或品牌动作解释影响"
+      ],
+      "sources": [
+        {
+          "name": "手机新浪网",
+          "publishedAt": "11月17日 06:49",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS3JFUkpKS1JMblowSUVudEpFbW84SnVHMDR2SHF2Q2RyRW9Pb2cwRmFOaGFQVjNQX3lBWWxKWFFGdjVTc0otMGdraG5xTEpub2NjWXVnNG1oVXJTZ293bEZmU3p4U3JNTmNlNnY0bUNkVlIyajVYd1lCaU5KUVhpcw?oc=5"
+        }
+      ],
+      "collectedDate": "2026-11-17",
+      "freshness": "today"
+    },
+    {
+      "id": "news-52ec781328ef1d",
+      "type": "event",
+      "category": [
+        "正在爆",
+        "智能驾驶"
+      ],
+      "hot": 90,
+      "create": 88,
+      "time": 609,
+      "timeText": "24 小时内",
+      "eventDate": "11月17日 06:38",
+      "status": "公开新闻源已采集",
+      "brands": [
+        "汽车行业"
+      ],
+      "models": [
+        "i60",
+        "L4"
+      ],
+      "title": "AION i60值得买吗？纯电700km、增程1738km、L4同源智驾，3个维度说清+FAQ",
+      "summary": "新浪网于11月17日 06:38发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：新浪网",
-        "发布时间：11月16日 07:12",
+        "发布时间：11月17日 06:38",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -2951,36 +3466,39 @@
       "sources": [
         {
           "name": "新浪网",
-          "publishedAt": "11月16日 07:12",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mV0UyRnBqT1V1cG5MWFptWGZwOHRJYVh3WlpqZHBtelhiMDFIUUY3UERxTVR2bmJ3UjItUEVlZFZEbVBybXZEZ2EzdE83MDFMenZXb0dQcTdEazAtY2x3?oc=5"
+          "publishedAt": "11月17日 06:38",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTVnlGNzdqeTgzSGRGbWZzLW5KTF9DSVJOU1g3V3BINUpWWE1RWE9icWlNNnoxVUtVbzJiQl9hUHk5Y3luWVRhOTNHbk5yWHNoX2hKS1N1SzdfM3RvQklZ?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-9d085d0125cf90",
+      "id": "news-db89e82bf8be05",
       "type": "event",
       "category": [
         "正在爆"
       ],
-      "hot": 92,
-      "create": 90,
-      "time": 510,
+      "hot": 90,
+      "create": 88,
+      "time": 614,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 07:08",
+      "eventDate": "11月17日 06:33",
       "status": "公开新闻源已采集",
       "brands": [
-        "长安"
+        "比亚迪",
+        "本田"
       ],
-      "models": [],
-      "title": "长安增程15到20万二胎家庭怎么选？燃油/插混/增程/纯电区别一次说清+FAQ",
-      "summary": "手机新浪网于11月16日 07:08发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 手机新浪网",
+      "models": [
+        "宋插混车展选哪个好"
+      ],
+      "title": "本田CR-V和比亚迪宋插混车展选哪个好？3个维度说清+FAQ",
+      "summary": "新浪网于11月17日 06:33发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：手机新浪网",
-        "发布时间：11月16日 07:08",
+        "来源：新浪网",
+        "发布时间：11月17日 06:33",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -2989,37 +3507,41 @@
       ],
       "sources": [
         {
-          "name": "手机新浪网",
-          "publishedAt": "11月16日 07:08",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5SmxyS2E0V3JhQWxVWkRVVzc2ZEs0T0dDa0NiVVNaSmtJTms2dmppN2M5WDVVbXJRY0QwT0tvdERLQl9qQzVhbkZTUmFXeXRPR3R6Z2c5YXJjRXBYeVRzM3FySFpHMnYtM19ZVkotbVNFdw?oc=5"
+          "name": "新浪网",
+          "publishedAt": "11月17日 06:33",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRZjF6ZDJMNUFoOTJhNl9PdFUwRjc5T3J2cHNSRVRNOGJYcTgyZ2NXR3J2YzRKVDZRMnU3MmZXSWpnTjl5NEJ2SV9vanJKcFpTRF94emIwdkxRZUdwX1Br?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-b526beb8ccaa28",
+      "id": "news-8d2c612d6136b3",
       "type": "event",
       "category": [
-        "正在爆"
+        "正在爆",
+        "补能与续航"
       ],
-      "hot": 92,
-      "create": 90,
-      "time": 510,
+      "hot": 90,
+      "create": 88,
+      "time": 614,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 07:08",
+      "eventDate": "11月17日 06:33",
       "status": "公开新闻源已采集",
       "brands": [
         "小鹏"
       ],
-      "models": [],
-      "title": "长途自驾15-20万选燃油插混还是纯电？小鹏同价位3个维度说透+FAQ",
-      "summary": "手机新浪网于11月16日 07:08发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 手机新浪网",
+      "models": [
+        "G7",
+        "G9"
+      ],
+      "title": "小鹏增程两款热门车怎么选？G7与G9价格空间动力续航配置区别全说清+FAQ",
+      "summary": "新浪网于11月17日 06:33发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：手机新浪网",
-        "发布时间：11月16日 07:08",
+        "来源：新浪网",
+        "发布时间：11月17日 06:33",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -3028,25 +3550,25 @@
       ],
       "sources": [
         {
-          "name": "手机新浪网",
-          "publishedAt": "11月16日 07:08",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45RW1kelJIbEZDU0JzdzMwMHhidUtqOV9oUmRWNHloX3BoZ3NjY3Bza3ZpNWZxZ3MtdGMtZllTdHZibm9sVFpzaGUxM3J6MUdVdENvMTMwekZSNHVRMTBiMFdVQlMyWFFfclR5aTJTQmFLUQ?oc=5"
+          "name": "新浪网",
+          "publishedAt": "11月17日 06:33",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EdS1iODNGY1pwSVBMMVhrVU4zWXNfNVUzcXBod1l0X2F5OTE3RURsWEgxcmIxeGxuRFBWZXZCaVNBMVVrMVVLcVRKaVp4SEJ0OFhQYkNQVE5hVGdYSDR3?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-691db8adcfa042",
+      "id": "news-ee73c5922a037e",
       "type": "event",
       "category": [
         "正在爆"
       ],
-      "hot": 92,
-      "create": 90,
-      "time": 511,
+      "hot": 90,
+      "create": 88,
+      "time": 630,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 07:07",
+      "eventDate": "11月17日 06:18",
       "status": "公开新闻源已采集",
       "brands": [
         "深蓝"
@@ -3054,13 +3576,13 @@
       "models": [
         "S7"
       ],
-      "title": "通勤族买深蓝S7后驱，同价位燃油/插混/纯电到底怎么选？3个维度说清+FAQ",
-      "summary": "手机新浪网于11月16日 07:07发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "title": "长途自驾15万，深蓝S7同价位燃油/插混/纯电选哪个？3个维度说清+FAQ",
+      "summary": "手机新浪网于11月17日 06:18发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 手机新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：手机新浪网",
-        "发布时间：11月16日 07:07",
+        "发布时间：11月17日 06:18",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -3070,123 +3592,43 @@
       "sources": [
         {
           "name": "手机新浪网",
-          "publishedAt": "11月16日 07:07",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Jc3d4ZkxhYURld3o1T1gyN0drV1hZY0ItOWVLYjlVVmtBLU9wQjU0ZkhhWFVxaEFSMGVzWUVJOE1UMGFveVRib00wNEFuRDlJcXpvS3RDMUdVNVNZaUJ5THl0OGhqOUNtRDVaa3Q1NHVjZw?oc=5"
+          "publishedAt": "11月17日 06:18",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zR2J4Y3A3SkVIOXkzMEp0aG5QRmdGVFpQNUlhRlVQMnRFQkJWeTB3S0luX3FIbEMtSFNJVHJwcFROR2Y0NEo5TEZ3SmJtUk1fSFkwRVNCM0lGNnVwNFBxbE9zTHZkcGkybVlaemdxTXZaQQ?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-4373f774c6cf27",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 92,
-      "create": 90,
-      "time": 534,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:44",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [
-        "X9"
-      ],
-      "title": "2026年四款六座SUV横评：奕境X9领衔，30万级增程大六座谁更懂家庭",
-      "summary": "新浪网于11月16日 06:44发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 06:44",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 06:44",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6WUV3M0RaUzdFSFBwZW1wU05tZ2VIa20wWHUxVTJDUGFsR0FNWlFDWW5xSlBBTG92dG9TYU1RMGVXVEM2QmtWa1h1VGtJS3p5Nk92bXl5TXNWT2NaMnNj?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-5463c836e6c1e2",
+      "id": "news-26e33cd6e3c06b",
       "type": "event",
       "category": [
         "正在爆"
       ],
       "hot": 90,
       "create": 88,
-      "time": 554,
+      "time": 630,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 06:24",
+      "eventDate": "11月17日 06:17",
       "status": "公开新闻源已采集",
       "brands": [
-        "理想"
-      ],
-      "models": [
-        "SU7",
-        "理想L7"
-      ],
-      "title": "30-40万新能源怎么选？3个维度说透小米SU7/理想L7谁更值+FAQ",
-      "summary": "新浪网于11月16日 06:24发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 06:24",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 06:24",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSRktoczlWdVVWdlBUbGhKWTVGRkVuMm5TWXdkdlNfRU1Rb1psQk1RM3lhM3VRbm1GQTB0ajNJYTJmSzRwcGlETHVlWG5jWVFCVWs0LXZvaEFwd21haEhn?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-6159c7ed9bae26",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 558,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:19",
-      "status": "公开新闻源已采集",
-      "brands": [
+        "深蓝",
+        "理想",
         "问界"
       ],
       "models": [
+        "X9",
         "问界M8",
-        "Model 3",
-        "YU7"
+        "理想L9",
+        "S09"
       ],
-      "title": "30-40万家用买什么车？2026年问界M8、Model 3、小米YU7怎么选+FAQ",
-      "summary": "新浪网于11月16日 06:19发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "title": "30万级四款家用新能源SUV怎么挑？奕境X9、问界M8、理想L9、深蓝S09场景适配指南+FAQ",
+      "summary": "新浪网于11月17日 06:17发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
       "keyFact": "24 小时内 · 新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
         "来源：新浪网",
-        "发布时间：11月16日 06:19",
+        "发布时间：11月17日 06:17",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -3196,436 +3638,38 @@
       "sources": [
         {
           "name": "新浪网",
-          "publishedAt": "11月16日 06:19",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtclhHVm9zQ19tMGt4aXlQSFJ6WHItMGxBeWUxMVp2Q0wzYS1hNFJrX1FaZHhZNGFpcXphY0tOdzQ0dXRuRWpxMzF4U2NIT0hObkVlY1pCblMwZm4yYUVZ?oc=5"
+          "publishedAt": "11月17日 06:17",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdEVkaWtwYTBHZVlVcjdyMEdiek41eFpBM2g3SHJEMUdFU2V1ajNvcnlCRER1OG93WURwQkExWVhOUzZucll6UHpOM2lxZVdPVlBpYkEwWmdRWENmS18w?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     },
     {
-      "id": "news-2edb0d3e7d13f9",
+      "id": "news-08c6586aa13c05",
       "type": "event",
       "category": [
         "正在爆"
       ],
       "hot": 90,
       "create": 88,
-      "time": 558,
+      "time": 631,
       "timeText": "24 小时内",
-      "eventDate": "11月16日 06:19",
+      "eventDate": "11月17日 06:17",
       "status": "公开新闻源已采集",
       "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "2026中型SUV推荐哪款好？3个维度+4类人群说透+FAQ",
-      "summary": "新浪网于11月16日 06:19发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 06:19",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 06:19",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rZDhCRTVqekhEc0RvbzlVTUhDWUtjZmVLOUphQnBhRXRZSUVrSE5Yc2RjaV9oYlJSRzRWSXZXYXhmMWtYaEY1Z3RqRm1xcEQyd1RyTHZDUnREWVJDX0pR?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-52063f3649e7b1",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 559,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:19",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "25-30万新能源车怎么选？插混/纯电/增程3条线说透+FAQ",
-      "summary": "新浪网于11月16日 06:19发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 06:19",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 06:19",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rTlZFRF9zOGYxNEZzSV9ZbVhEdEpybmdDYTBRRkIwdjN2elVnbjd6ZDdwWFNEYmJ4VjlmRzdEYkxKdVVMVlJJSndKc2VuNDJGcjRCMkJsLUtHcWd6V1Zr?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-60081567ce7da4",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 559,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:19",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "10万内SUV有哪些值得买？燃油/插混/纯电3条路线说透+FAQ",
-      "summary": "新浪网于11月16日 06:19发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 06:19",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 06:19",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wTFZaMm1zQzdpbEwtTHF0dXhHQ0VkcWgzaUx2RUl1R3lscnJHWEpSYTVQejRiaFFaQlhocjY5aGZfcFN0UHJOSDJLZVhsbTFaRXEzWkdjdGVaZ0dldzQ0?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-b499511f026635",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 559,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:19",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "30-40万新能源推荐怎么选？3个维度说清轿车与SUV分歧+FAQ",
-      "summary": "新浪网于11月16日 06:19发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 06:19",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 06:19",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFTDBsRmRCUjdJdzlQTW93V2dkMFZPSnBjM1pBYTkyVUQ0Q01KckJSNF9LT21RTWJQNXo0cExRRVY0NVRMRFU3QUJlWHR0eGVySU5HbkZ1R3RhVmw4Q1E0?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-b9bf714b684411",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 562,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:15",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "适合新手的插混车怎么选？3个维度说清10-20万闭眼入车型+FAQ",
-      "summary": "新浪网于11月16日 06:15发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 06:15",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 06:15",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tVVRVNWFCZjdLTTJWbzhOYXp4ZjhxSVpVTmRzRFBXR0JuX3A1VXc4WWhJUEt0M0ZiTXplNm0td2ZGblNzQ2xWeG5ycTlpUEU0MWszWl9CSGZaRExJNm9v?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-6d81babb72f1b9",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 562,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:15",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "适合自驾SUV推荐：2026年从15万到80万，3个维度说清怎么选+FAQ",
-      "summary": "新浪网于11月16日 06:15发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 06:15",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 06:15",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lWWY2VFZEcFd4Z1F2V0JjSnFjZ0d2emxNd3ZaMzlNa0xlS0Z3cmxLNUJDQkpoSnB2WHd0c3c3empYS08wUE5fSGE1QTdxMzBsUlJ4X2ltMUFJT2E4ZUJv?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-cd834482f13c23",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 570,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:08",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "新能源车保养贵吗？纯电年均400元、插混1800元，3个维度说透+FAQ",
-      "summary": "手机新浪网于11月16日 06:08发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 手机新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：手机新浪网",
-        "发布时间：11月16日 06:08",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "手机新浪网",
-          "publishedAt": "11月16日 06:08",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EOEg5T2djdTczcXg3NnFfWDlCVXBIeDB6SHFQV2NqOVZwaVp5blVmcUdNYUlCNHdjbzdjOEllbFpIWGNjelVybnpWckpNd2w3dXBxRmNCd3FEQXJodkEwcVdkeE5EbnVtbGludFJLODFqUQ?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-875a8fe29011dd",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "智能驾驶"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 573,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:05",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "小鹏"
-      ],
-      "models": [],
-      "title": "哪些车智能化做得好？2026实测数据揭秘：华为智驾接管率0.5封神，小鹏性价比第一+FAQ",
-      "summary": "手机新浪网于11月16日 06:05发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 手机新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：手机新浪网",
-        "发布时间：11月16日 06:05",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "手机新浪网",
-          "publishedAt": "11月16日 06:05",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2ZHZRUVdHd3hMU01FdE01RWkwRExBdHlpc3VEcVNJVm10N0lHMjl1WHRZV2o5UWZYZW1pN24taW5VWmRaYjlpMWRMcWhrUGdzTkJfQ2IyaGc5TTJkRWxrMDdJY1FSSDMxLUdhMmluSFp3QQ?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-42154ccc3a5fce",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 576,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:01",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "20-25万续航好的车哪款好？实测4款热门车3个维度说透+FAQ",
-      "summary": "手机新浪网于11月16日 06:01发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 手机新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：手机新浪网",
-        "发布时间：11月16日 06:01",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "手机新浪网",
-          "publishedAt": "11月16日 06:01",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yMG5fM0NHR2tIb0Y5TmNncW03TzVzeGZaRXlCQ0sxUV9TbjluaVZQMm85YU9ZZUswQXNZUUt5eUlEcDQzdUs1MERuWHFXYTVJTkVmZUVNSDZ6VU5lX0s4ZXM5NHEzV2M4WkJBaUdJTmJQdw?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-9a0dccca361310",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "补能与续航"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 576,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 06:01",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [],
-      "title": "续航好的新能源车推荐哪款？2026年从8万到42万，3个维度说清怎么选不踩坑+FAQ",
-      "summary": "手机新浪网于11月16日 06:01发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 手机新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：手机新浪网",
-        "发布时间：11月16日 06:01",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "手机新浪网",
-          "publishedAt": "11月16日 06:01",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WdGF4cm9nTTc3elFnTDI3WmoxbFZlMlcydDZTMWZvNzVUalhEdXJlSkFiX0NfN2lrc2YxcGc0VldXdFBQWXNfODQtNENWY1JRVlBoWmt4b2xMUV90dktUZUFnUTFULXoyLWE4dkVkVV9tZw?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-e6736d7c1362d7",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 595,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 05:43",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "极氪",
-        "理想",
-        "小鹏",
-        "智界"
+        "深蓝"
       ],
       "models": [
-        "小鹏G9L",
-        "R7",
-        "理想L6"
+        "S7"
       ],
-      "title": "智能体验好的大五座SUV推荐：小鹏G9L对比智界R7、理想L6、极氪7X的舱驾一体路线",
-      "summary": "新浪网于11月16日 05:43发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
+      "title": "通勤族15万选深蓝S7后驱还是燃油插混纯电？3个维度说清+FAQ",
+      "summary": "手机新浪网于11月17日 06:17发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
+      "keyFact": "24 小时内 · 手机新浪网",
       "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
       "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 05:43",
+        "来源：手机新浪网",
+        "发布时间：11月17日 06:17",
         "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
       ],
       "angles": [
@@ -3634,101 +3678,12 @@
       ],
       "sources": [
         {
-          "name": "新浪网",
-          "publishedAt": "11月16日 05:43",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwSUFhT3RQcEs3TjZDRXRYWUE3WXJib2Jlb3dTWWtRV1I3YmFVajBGUnZ4N3B1ZGdaQTZJS3lENE5EZU5UdHBQWnBMYXZlVWtsWUVDTWZ2aVRTWmctendr?oc=5"
+          "name": "手机新浪网",
+          "publishedAt": "11月17日 06:17",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sQ0hsMVV6bkpFTTlzdXJzaHJILXdtX0l5c0l3QkNLbkc3dXdsOUtPVWFVX04xR2szRkFOaFlVRU9aSnNvVkxVZzEtVkpGR0dlRUt0eW5lREp1STZyZ2ZPQ0kwa2dmYVJwa21WbjMxY3k4dw?oc=5"
         }
       ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-89c9d141726be3",
-      "type": "event",
-      "category": [
-        "正在爆",
-        "新车情报"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 595,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 05:43",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "汽车行业"
-      ],
-      "models": [
-        "X9"
-      ],
-      "title": "2026新上市六座SUV深度横评：四款重磅新车，奕境X9为何成家庭旗舰热门？",
-      "summary": "新浪网于11月16日 05:43发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 05:43",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 05:43",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHSDRoNllMTTdWLVVWcDgxVTBsUVp1RmpIemRGM1hmZ3BUV295S0sxNUlZNy14YWJ4TVVmd05RcEp1d19WbkhvY1pfOUIwLVcxY3Y1OFZXM1JwVWRGM21V?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
-      "freshness": "today"
-    },
-    {
-      "id": "news-c4e6d6d9698c7a",
-      "type": "event",
-      "category": [
-        "正在爆"
-      ],
-      "hot": 90,
-      "create": 88,
-      "time": 595,
-      "timeText": "24 小时内",
-      "eventDate": "11月16日 05:43",
-      "status": "公开新闻源已采集",
-      "brands": [
-        "极氪",
-        "蔚来",
-        "理想",
-        "小鹏"
-      ],
-      "models": [
-        "小鹏G9L",
-        "理想L6",
-        "问界M7",
-        "ES6"
-      ],
-      "title": "大五座装载候选清单：小鹏G9L、理想L6、问界M7、蔚来ES6与极氪7X横评",
-      "summary": "新浪网于11月16日 05:43发布了这条汽车动态；标题已保留具体品牌、车型或事件信息。",
-      "keyFact": "24 小时内 · 新浪网",
-      "why": "按发布时间、跨关键词命中和多源重复信号排序，便于创作者快速判断当天选题价值。",
-      "points": [
-        "来源：新浪网",
-        "发布时间：11月16日 05:43",
-        "热度信号：命中 1 个汽车主题，跨源/重复 1 次"
-      ],
-      "angles": [
-        "从标题中的具体车型或事件切入，补充关键数字与背景",
-        "对照同级车型、同类政策或品牌动作解释影响"
-      ],
-      "sources": [
-        {
-          "name": "新浪网",
-          "publishedAt": "11月16日 05:43",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Hdjlwd3p6MmFsUVlSQnVCYkJTX1M5cnVUSG9LcHdtUVFsdVppdGNkdlVxNTFRV2hwb21tZXRJVUEtT0o3eklnNHVITFg2ZDFyLTJQSS1yRDJsSGt2NWlB?oc=5"
-        }
-      ],
-      "collectedDate": "2026-11-16",
+      "collectedDate": "2026-11-17",
       "freshness": "today"
     }
   ]
